@@ -1,0 +1,14 @@
+filters:
+  and:
+    - '!file.inFolder("Templates")'
+    - file.hasTag("session-notes")
+formulas:
+  Title: ""
+views:
+  - type: table
+    name: Sessions
+    order:
+      - file.name
+    sort:
+      - property: created
+        direction: DESC

@@ -1,0 +1,100 @@
+---
+title: Church and the 4 ladies of the night
+aliases:
+  - Session 5
+  - Church and the 4 ladies of the night
+tags:
+  - draft
+  - session-notes
+created: 2026-07-25T18:12
+updated: 2026-08-08T20:19
+---
+- [[Lee Valentine]] 
+	- At the [[Far Harbor Inn]]
+		- Talks [[Nick the Ghost of Far Harbor Inn]]
+		- Nick has been in the inn for about 100 years
+		- Nick was from [[Knoxopolis]]
+		- The [[shadow man of Far Harbor Inn]] trapped him there
+		- He meet his mistress at the hotel and his wife killed him there
+		- Lee learns more about the town
+		- There was a incident in [[Ya Vonn City|Ya'Vonn City]] where about 80% of the city sank. The people moved to [[Knoxopolis]].
+		- Ya'Vonn City was the original capital
+		- [[Tea Leaf]] has been manager since before he died
+		- There was an incident involving [[The Order of the Crimson Rose]] where the kid napped the daughter [[Reverend Joel Osterson]] of [[Mount of Olives Church]] and Head of [[Department of Natural Resources]]
+- [[John Cook]] and [[John Bullet]]
+	- They are traveling to the ogres, heading North East
+	- Both [[SBK Farm]] and [[McDougal Farm]] are industrial styled farms
+	- They ferry across [[Cades Lake|Cade's Lake]]
+	- They get to a camping spot and the set up for the night
+	- Bullet Goes to sleep while Cook sets up a fire and drinks
+	- Bullet wakes up and integrates Cook why he set up a fire, as they are supposed to stay hidden
+	- They put out the fire
+- [[Captain Fabius Grimshaw|Captain Grimshaw]] (4 AM)
+	- Crime Scene
+		- There is a loud knocking on the door
+		- He dragged into another crime scene
+		- He puts on a captain helmet on while wearing his pjs 
+		- As they arrive at the scene (an apartment), he hears a child crying outside the front door
+		- He walks in and see a group of 4 dead women at table who are dressed up like the other victims 
+		- 3 of 4 women are older than the normal victims
+		- The bodies are "not stiff" or "fresh"
+		- He sends someone to figure out where the dresses came from
+		- Grimshaw knows the child's father. He served in the military with him. 
+		- The two possible suspects are from the two riches families in the [[Tequasil Rebublic]]
+		- The both left [[PETA]] to form a romantic relationship with each other
+		- They joined [[STAB]] 
+		- They haven't been seen in last 2 years
+		- He asks someone to find information on the Veteran friend, [[Alistair Oakenshield]] 
+		- He never made it home from the war as he died in travel back
+		- The child's nearest family in Midway
+- [[Gorzods Smoke and Steel]]
+	- 70 spent on door replacement study glass for the door
+	- I will charge [[John Cook]] for it later
+	- He then goes to church
+- [[Far Harbor Inn]]
+	- [[Fredrick J Fazbear]], [[Cortana Dragonfire Elliott|Cortana]], [[Bill Iron Clad Elliott|Iron Clad]], and [[Lee Valentine]] all leave the around the same time to go church
+	- Fredrick walking down the steps does a front flip and slides down the banister and then lands
+	- The three others see this
+	- Iron Clad impressed tries to jump down the stairs, grabs on to the chandelier, swings around it, and then does a superhero landing, cracking the marble floor
+	- Cortana smacks Iron Clad in the back of the head
+	- Tea makes him pay money for the floor but [[Lee Valentine]] gives it to Ms. Tea
+	- Iron Clad thanks Lee 
+	- [[Fredrick J Fazbear]] goes to the [[Church of the North Point]]
+	- The Elliots and Lee go to Mount of Olives Church 
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- His mom calls him for church
+	- He tells her to save a seat while he gets ready
+	- He goes to [[Cathedral of Lady Alyssa]] Church
+	- He enters the huge cathedral to organ music 
+	- After service goes to confession
+- [[Mount of Olives Church]]
+	- [[Gorzod Montane|Gorzod]], [[Cortana Dragonfire Elliott|Cortana]], [[Bill Iron Clad Elliott|Iron Clad]], and [[Lee Valentine]] attend
+	- It's a huge church
+	- It has a massive choir (100-200 people)
+	- [[Reverend Joel Osterson]] preaches his sermon 
+	- Then they enjoy the cook out
+	- Gorzod talks to Iron Clad
+	- He introduce the Elliots to the Reverend
+	- The Reverend tells him that they should not mess with the Ghost of the Far Harbor Inn
+	- However they insists that they go and the Reverend gives them a pass
+	- Then Gorzod's asks about the door situation
+	- He gives another business card out to [[Bill Iron Clad Elliott|Iron Clad]]
+	- After the Elliots leave, Lee comes up and talks to the Reverend
+	- They talk about a lot, including the incident of Gorzod saving the Reverend's daughter from [[The Order of the Crimson Rose]] who believe that [[Tequasil Republic]] is the new promised land they must cleanse by sacrificing maidens
+	- Reverend is from [[Midway]]
+	- Gorzod goes to the police station
+- [[Fredrick J Fazbear]]
+	- Goes to [[Church of the North Point]]
+	- After service he talks to the priest 
+	- He asks for him to pray for him his safety as "he may not make it long"
+	- He asks about the city 
+	- He asks for a bible and the pastor gives him one
+	- He also asks for one in language
+- [[Captain Fabius Grimshaw|Captain Grimshaw]]
+	- He goes to [[Cathedral of Saint Antioch]]
+	- There is a statue of a Paladin and he is holding a sword that radiates energy
+	- There are less pews so people will have to stand
+	- He talks to the priest about the murders that morning
+	- The priest offer to take him into his family
+- Police station
+	- [[Gorzod Montane|Gorzod]], [[Cortana Dragonfire Elliott|Cortana]], [[Bill Iron Clad Elliott|Iron Clad]], and [[Lee Valentine]] are in the lobby waiting for [[Captain Fabius Grimshaw|Captain Grimshaw]]

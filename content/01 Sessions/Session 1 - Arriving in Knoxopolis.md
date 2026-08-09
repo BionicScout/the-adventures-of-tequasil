@@ -1,0 +1,156 @@
+---
+title: Arriving in Knoxopolis
+aliases:
+  - Session 1
+  - Arriving in Knoxopolis
+tags:
+  - draft
+  - session-notes
+created: 2026-05-30T18:32
+updated: 2026-08-08T18:11
+---
+- [[Bill Iron Clad Elliott|Bill Elliott]] and [[Cortana Dragonfire Elliott]] traveling
+	- They see 3 ships, including one huge iron clad heavily armed
+	- They see a guy dressed like a "party city pirate costume", named is [[Captain Jack Morgan]]
+	- The ship name is the [[Evan Hawk]]
+	- He greets them and boards them
+	- Then they are introduced to [[Conrad Mithril]] 
+	- [[Shane Three Sheets O Leary]] is a member of the ship
+- [[Fredrick J Fazbear]] enters [[Knoxopolis]]
+	- Coming from an Island, he enters Knoxopolis by ferry into [[Fair Harbor]]
+	- The government controls the entrance into Fair Harbor
+	- He checks out the ships in the harbor 
+	- A man calls him to check out the ship
+	- He gets a detailed explanation of "physics" 
+		- Keep water out of boat mean no sink
+	- He gets kicked off the ship for "enjoying sand in his fur"
+	- He looks at a steam power ship, where an orc chases him away
+	- He then sees an arc of electricity jolt through the air (tesla towers)
+		- These arc flashes are common
+	- Then he looks at a Galleon, where a person side eyes him
+	- He tries to board the ship after seeing a sign saying the crew was gone
+		- He climbs the ship
+		- He looks around on the ship
+		- He goes to the bottom of the ship and finds boxes and bunks 
+		- He attempts to open one of the creates but fails
+		- He opens one of the foot lockers and doesn't find much
+		- He then leaves but he hears "police boots" on the deck and see military police on the ship
+		- He is asked whether he is crew of the ship
+		- He then attempts to flee and he face plants into the deck of the ship
+		- The MP then attempt to arrest him
+		- He attempts to flee again but the guards catch and detain him
+- [[Gorzod Montane]] owns [[Gorzods Smoke and Steel|Gorzod's Smoke and Steel]]
+	- He closes shop early and goes out into the store
+	- Been running the shop for a while
+	- I go to the bar [[Keel Haller]] and sits at the counter
+	- I got a random drink that is source from honey
+	- I see a Captain from the guard and I sit with him and "the boys" 
+- [[John Bullet]]
+	- Travels to [[Knoxopolis]] on land
+	- The city has nice basalt walls
+	- He enters the city and looks for a tavern
+	- He hears people talking about the [[Keel Haller]] and he gets himself invited to go with them
+	- He meets the Bartender
+	- He is mainly silent and drinks water
+- [[Bill Iron Clad Elliott]], [[Cortana Dragonfire Elliott]], and [[Shane Three Sheets O Leary]] land in the harbor
+	- The crew heads over to the [[Keel Haller]] and they invite the couple 
+	- They decide to join
+	- First round is on Three Sheets
+	- He buys a keg for the entire bar
+	- The bar is happy
+- [[Gorzod Montane]]'s Deal
+	- I talk with the boys
+	- I give [[Captain Ryan]] a special revolver with his name ingraved
+	- He said that his boys are going to visit me in the morning after P.T. for some new fire arms
+- Bar Fight
+	- one of the patrons try to grab at one of the waitress
+	- [[Shane Three Sheets O Leary]] intervenes 
+	- The start to get in a fight
+	- The other guy gets tossed out the window where a Warforge guard stands ([[John Cook]])
+	- He tell the other guard [[Captain Fabius Grimshaw]] (who is one of the Captains of the guard) to deal with the drunk guy
+	- Fabius questions the guy of what happened
+	- and then they enters the bar and get drinks
+- In the bar
+	- The bartender tells John Cook their is another warforge in town 
+	- Fabius comes over to the military table 
+	- Fabius tells Captain Ryan he will arrest the guy on the way out
+	- I start to repair [[Captain Fabius Grimshaw]]' gun
+	- [[Bill Iron Clad Elliott]] calls over the bartender trying to get information about [[Sai Kata]]
+	- Bartender points to the table with [[FETT]]
+	- [[Thomas the Bartender]]
+	- [[Shane Three Sheets O Leary]]
+	- Iron Clad asked the FETT about a person he is hunting
+	- They tell told them to go to FETT Headquarters to see the wanted [[IBS]] poster
+	- They decide to call it a night
+	- [[John Cook]] questions the bartender about the situation
+	- [[Shane Three Sheets O Leary]] tells Cook and bartender that the couple are bartenders from [[Cartellington]] 
+	- [[Captain Fabius Grimshaw]] walks over to see what is happening with the bartender
+	- [[Thomas the Bartender]] and [[Bill Iron Clad Elliott]] both have hands on your guns
+	- [[John Cook]] asks for more alcohol
+	- [[Captain Fabius Grimshaw]] goes to talk to the bounty hunters
+	- [[Captain Fabius Grimshaw]] doesn't know him they are hunting for
+- At the Harbor
+	- An ironclad ship pulls into harbor 
+	- [[Jason Hammerhead]] or not
+	- He says he is just passing through
+	- He heads into town and leaves his crew in to run his ship
+	- Talks one member of the crew with him
+	- He can hear the [[Keel Haller]] 7 docks down
+	- He goes over to the FETT 
+	- The bounty hunters are just sitting in the catenae there 
+	- There is big bounty board
+	- On top of the board 
+		1) [[Sai Kata]] (100 million Gold) (wanted alive)
+		2) The [[Baba Yaga - Bounty]] (10 billion gold) (wanted dead, Must have body for proof)
+		3) [[The Terminator - Bounty]] (5 billion Gold) (wanted dead or alive)
+		4) [[The Ghost - Bounty]] (1 billion Gold)(wanted dead or alive)
+		5) [[The Man with No Name - Bounty]] (500 million gold)(wanted dead or alive)
+	- He takes papers for The Ghost, The Man with No Name, and Terminator
+	- The other bounty others who look at him taking it down
+	- He returns to his ship
+	- He sends one of his crew to check out the [[Keel Haller]]
+- The Bar
+	- Every one talks about 
+		- the nearby museum 
+		- And about a bear folk being arrested
+	- Drunk [[John Cook]] tells the warforge [[Bill Iron Clad Elliott]] to leave
+	- John doesn't believe he is a warforge
+	- [[Captain Fabius Grimshaw]] goes to deal with situation
+	- Fabius tells him to take a nap and John Cook falls on the floor
+	- [[Bill Iron Clad Elliott]] "accidently" trips over Cook
+	- [[Bill Iron Clad Elliott]] offers to help move him. They him to the booth
+	- Fabius then leaves and takes the guy thrown out the window to police station
+	- The guy gets thrown in the jail in with [[Fredrick J Fazbear]]
+	- Apparently this is a second bear folk to break into a ship
+	- Fazbear tries to convince Fabius to let him out
+	- Fazbear pays 250GP in fines and then heads to the bar
+	- Then the bounty hunters leave and go the [[Fair Harbor Inn]]
+	- [[Tea Leaf]] works there
+	- [[Shane Three Sheets O Leary]] tells [[Captain Jack Morgan]] that he will call it a night
+	- As Three Sheets goes back to ship, a blue hooded man runs into him
+	- Three sheet stumbles into the water
+	- Gorzod and Fazbear try to go save
+	- Gorzod tries to use his walking stick to let Three Sheets hold on
+	- Both Gorzod and Fazbear pull him out of the water
+	- Gorzod passes him a business card
+	- Then they both help him up the ship
+	- Fazbear buys Gorzod a drink
+	- [[Captain Jack Morgan]] is telling stories in the bard
+- The Fair Harbor Inn
+	- A young girl just appears in the room
+	- [[Cortana Dragonfire Elliott]] throws a dagger at her and goes through her
+	- She asks for them to help her find her mommy
+	- She tells [[Tea Leaf]] about the ghost girl
+	- Tea says the room is haunted
+	- The girl's name is [[Elizabeth the Ghost of Far Harbor Inn|Elizabeth]] 
+	- The girl ask Bill to hold his gun
+	- He passes it to her
+	- He then tells her to go away and she gets angry
+	- He gets angry and his eyes turn red
+	- The couple argue
+	- He passes back the gun
+	- He takes her to the hallway and she disappears
+	- Then they buy salt to deal with the ghost
+	- Elizabeth is already back in the room
+	- He puts salt around the chair
+

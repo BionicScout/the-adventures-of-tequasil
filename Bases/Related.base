@@ -1,0 +1,62 @@
+filters:
+  and:
+    - file.path != this.file.path
+    - file.ext != "base"
+formulas:
+  LinksOverlap: formula.Related.length
+  Related: |-
+    list(this.file.links)
+    .filter(list(file.links)
+    .containsAny(value))
+    .unique()
+  BacklinksCount: file.backlinks.length
+  TagsOverlap: list(this.file.tags).filter(list(file.tags).containsAny(value)).unique().length
+  Testing: "\n"
+  Links - No Bases: |-
+    list(this.file.links)
+    .filter(value.asFile().ext != "base")
+    .filter(list(file.links)
+    .containsAny(value))
+    .unique()
+    .sort()
+  Links overlap - No Bases: formula["Links - No Bases"].length
+properties:
+  formula.LinksOverlap:
+    displayName: Links overlap
+  file.name:
+    displayName: Name
+  formula.BacklinksCount:
+    displayName: Backlinks count
+  formula.TagsOverlap:
+    displayName: Tags overlap
+  formula.Related:
+    displayName: Links
+views:
+  - type: table
+    name: Related
+    filters:
+      or:
+        - file.hasLink(this)
+        - this.file.hasLink(file)
+        - formula["Links overlap - No Bases"] > 2
+    order:
+      - file.name
+      - formula.Links - No Bases
+    sort:
+      - property: formula.Links - No Bases
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: formula.Links overlap - No Bases
+        direction: DESC
+      - property: formula.TagsOverlap
+        direction: DESC
+      - property: formula.BacklinksCount
+        direction: DESC
+      - property: formula.Related
+        direction: ASC
+    limit: 20
+    columnSize:
+      file.name: 343
+      formula.Links - No Bases: 792
+    rowHeight: medium

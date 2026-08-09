@@ -1,0 +1,158 @@
+---
+title: Joining STAB, DRWHO, and IKEA
+aliases:
+  - Session 4
+  - Joining STAB, DRWHO, and IKEA
+tags:
+  - draft
+  - session-notes
+created: 2026-07-11T18:02
+updated: 2026-08-08T18:14
+---
+- [[Cortana Dragonfire Elliott|Cortana]] and [[Bill Iron Clad Elliott|Iron Clad]]
+	- [[Far Harbor Inn]] - Friday Night
+		- [[Cortana Dragonfire Elliott]] tells [[Elizabeth the Ghost of Far Harbor Inn|Elizabeth]] that she wants to see the [[shadow man of Far Harbor Inn|shadow man]]
+		- They go to sleep
+		- [[Bill Iron Clad Elliott|Iron Clad]] notices the shadow man sitting in the room as the temperature drops 
+		- Shadow man tells Cortana (who Iron Clad woke up) to stop the investigation or "They" will notice
+		- Then he disappears 
+		- They decided to continue there investigation
+	- Saturday Morning
+		- IKEA
+			- They go to [[International Konclave of Enlightened Artificers]]
+			- They ask about a magical person there
+			- They find out there is a restricted part of the library for government officials
+			- They are told that some people might be able to let them into the restriction section
+			- They go to the police station
+		- Police Station
+			- They offer to help the police 
+			- They are told to go to [[FETT]] for Bounties or [[STAB]] for "clean up duty"
+			- They were told [[Captain Fabius Grimshaw|Captain Grimshaw]] would be around later
+			- They go to STAB
+		- STAB ([[Stru Tannaks Assassin Bureau|Stru Tannak's Assassin Bureau)]])
+			- They ask about "trash clean up"
+			- STAB is a group of assassins
+			- trash clean up is assassinating corrupt officials to help the people
+			- the government allows them to exist
+			- The couple decide to a contract 
+			- Before they can get one, they had to do an initiation 
+			- They are to deliver a letter to [[Howard Ba'maz]] without him knowing who it is from
+			- He is at the Horse Track
+			- They argue on where to go
+			- They go to see the Horse Race at 9 am
+		- 2nd Murder Site (on the way to horse racing)
+			- [[Cortana Dragonfire Elliott|Cortana]] and [[Bill Iron Clad Elliott|Iron Clad]] see [[Captain Fabius Grimshaw|Captain Grimshaw]] walking towards [[PETA]]
+			- Iron Clad ask Grimshaw what happened
+			- Grimshaw doesn't hear, but another officer responds
+		- Horse Races
+			- Iron Clad bets 25 GP on a Smelly Pete
+			- Horse are 
+				1) [[Peppermint Patty Horse|Peppermint Patty]]
+				2) [[Oil Slick Horse|Oil Slick]]
+				3) [[Bush Hogg Horse|Bush Hogg]]
+				4) [[Fair Harbors Finest Horse|Fair Harbor's Finest]]
+				5) [[Smelly Pete Horse|Smelly Pete]]
+				6) [[Celeste Horse|Celeste]] 
+			- Smelly Pete wins and Iron Clad gets 360 GP 
+			- Cortona gives him a look and he decides not to Gamble any more
+			- They go eat food
+		- Later that night
+			- They try to sneak Howard the letter
+			- Iron Clad tries to distract the guards
+			- The guards see him and think he stole gold. He runs west
+			- Cortona tries to sneak to the office
+			- She puts the letter on his desk
+			- As she goes to leave, she hears footsteps
+			- She goes out the window and rolls, spraining her ankle in the process
+			- The two of them meet up
+			- He carries her to the [[Far Harbor Inn]]
+- [[John Bullet]]
+	- Heads to [[DRWHO]] (Drew Rammoz' World Hunter Organization) to find work
+	- He is tasked to kill a pack of coyotes for initiation 
+	- He tracks the coyotes
+	- He fights 4 coyotes
+	- Coyotes are dead
+- [[Gorzod Montane|Gorzod]] and [[Lee Valentine]] on the [[Tide Breaker]]
+	- Earlier
+		- Gorzod is installing the cannons
+		- Lee is playing 
+		- The crew doesn't know [[Sai Kata]]'s reasons for being in the city
+		- Sai had issues with the Emperor of the East
+			- He never kills
+			- He fought Shark King, a pirate captain
+		- Shark King attacked [[Captain Morgan]] at some point
+		- Lee is performing at the theater that night
+		- some of the crew has time to go do things in town
+		- [[Jack ze Whipper]] greets [[Lee Valentine]] for a performance 
+	- Later
+		- Lee and [[Jade]] performs 
+		- Jack ze Whipper takes stage introduces them
+		- Jade does a Chinese interoperation dance 
+		- Lee goes to the [[Fair Harbor Inn]] and sees [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]] comes into the inn
+		- He stays the night
+		- He is put in room with [[Nick the Ghost of Far Harbor Inn]]
+- [[Fredrick J Fazbear|Fazbear]] checks out [[International Konclave of Enlightened Artificers|IKEA]]
+	- He tries to enroll 
+	- He is told to fill out a 10 page packet of paper work
+	- He cannot read half the words on the page
+	- He goes to the library to find a translation book
+	- It takes him 3 1/2 hours at to fill out the paper work
+	- The initiation task is to build something new and inventive
+	- He wants to build an arm grappling hook 
+- [[John Cook]]
+	- He walks to [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]] to see its closed
+	- There is a robot taking request
+	- [[Syntax]] could not find his guns
+	- [[John Cook]] slams the doors and shatters the glass on the door
+	- He goes to [[DRWHO]]
+	- He is looking for a job 
+	- He is handed a hunting rifle to use for initiation (since he has no guns)
+	- He has to hunt two wild boar
+	- He kills both
+	- Cook runs into [[John Bullet]]
+	- They both enter the hunter's lodge
+	- They are both initiated 
+	- They can now take contracts
+	- The Johns meet each other
+	- They decide to look to do a contract together
+	- They decide to go kill 5 ogres 
+	- They travel out of town without many supplies
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- Shopping
+		- He is going clothes shopping
+		- He heads to the [[The Internal Market and Bizzarre]]
+		- He goes and see his crews merchant contact [[Solomon]] and says hello
+		- He request for more of the sugar cane as its the 'best" sugar cane he's had
+		- Solomon tells Three Sheets about the strange interaction with [[John Bullet]]
+		- They talk about [[Sai Kata]]'s ship
+		- He goes to buy clothes
+		- He walks back
+	- He goes to a bar
+	- He goes to the arena
+		- He goes and talks with the officiator which he knows
+		- He ends up fighting [[the boulder]] in a boxing match
+		- He wins
+		- He sees a woman fighter in silver-white outfit
+		- She winks at him and then walks into the MMA-type arena ;)
+		- He goes and watches her fight
+		- She wins her fights
+		- Three sheets meets her
+		- Her name is [[Moon]]
+		- She asks if he will show her around
+		- Moon winks at him again
+	- He returns to his family
+	- His family owns the [[Bags Inn]]
+- [[Captain Fabius Grimshaw|Captain Grimshaw]]
+	- Two doctors left [[PETA]]
+	- They joined [[STAB]] then disappeared
+	- He tells his lackey to investigate further 
+	- He goes to investigate both crime scenes 
+	- He notices that the area of one of the murders was "unnaturally" calm with lack of movements
+	- He can sense the vibe of old magic being used. Maybe from ancestral blood magic lingering around. 
+	- He was able to find clues pointing him to a manhole cover
+	- He sees a yellow fog in the sewers and the smell of sulfur.
+	- He follows the smell to a fork in the sewer and then loses the smell.
+	- He walks into he runs into a anti-chamber where the vapors descends and with scaffolding going across the room
+	- He jumps down and yellow vapors start to burn his skin 
+	- He climbs back up a service ladder to escape
+	- He creates a trail to where the chamber is and leaves

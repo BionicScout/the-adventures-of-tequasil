@@ -1,0 +1,34 @@
+views:
+  - type: leaflet-map
+    name: Tequasil Republic
+    image: Attachments/Tequasil_Republic.webp
+    height: 600
+    mapName: Tequasil Republic
+    defaultZoom: -1
+    minZoom: -1
+    maxZoom: 2
+  - type: leaflet-map
+    name: Knoxopolis
+    image: Attachments/Knox_V5.webp
+    height: 600
+    mapName: Knoxopolis
+    defaultZoom: 0
+    minZoom: -1
+    maxZoom: 2
+    zoomDelta: 0.5
+  - type: leaflet-map
+    name: Aborville
+    image: Attachments/Aborville.webp
+    mapName: Aborville
+  - type: leaflet-map
+    name: Midway
+    image: Attachments/Midway_V2.webp
+    mapName: Midway
+  - type: leaflet-map
+    name: Moria
+    image: Attachments/Moria.webp
+    mapName: Moria
+  - type: leaflet-map
+    name: Ya Voon CIty
+    image: Attachments/YaVonn.webp
+    mapName: Ya Voon CIty

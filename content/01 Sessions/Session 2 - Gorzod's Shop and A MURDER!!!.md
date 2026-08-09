@@ -1,0 +1,137 @@
+---
+title: Gorzod's Shop and A MURDER!!!
+aliases:
+  - Session 2
+  - Gorzod's Shop and A MURDER!!!
+tags:
+  - draft
+  - session-notes
+created: 2026-06-13T18:25
+updated: 2026-08-08T18:12
+---
+- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+	- Store opens at 6 am
+	- [[Captain Ryan]] and his crew enter the store
+	- They buy the guns
+- [[John Bullet]]
+	- He is awoken in the park by cat licking his face
+	- He takes the cat and puts them in his jacket
+	- He then goes to the stables
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- He wakes up hung over but not as much as normal
+	- Searching for his clothes he finds the business card [[Gorzod Montane|Gorzod]] gave him
+	- He heads to the main deck and does his morning rounds as Helmsman 
+	- He goes and talks to [[Captain Jack Morgan]] about last night
+	- Captain points outs a "Jolly Roger" in the harbor
+		- He thinks the ship is might be an target with a significant bounty
+		- He speculates that there might be bounty hunter in the city
+	- Three Sheets mentions that he saw bounty warforge in the bar last night ([[Bill Iron Clad Elliott|Bill]]) and confirms it was [[Sai Kata]] he was hunting
+	- Captain tells Three Sheets to be on the look out for more
+	- Three Sheets shows the Captain Gorzod's business card and is told to pay him a visit
+- [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Dragonfire]]
+	- Dragonfire talks to [[Tea Leaf]] about the ghost girl 
+		- The girl came with to the town and had a form of cancer
+		- Her parents were killed in town
+		- 3 days later she died of her cancer
+		- She is told to go [[University Tequasil]] for more info
+	- They go to [[FETT]]
+		- They look at the bound board
+		- He grabs the bounties for both [[Sai Kata]] and [[Baba Yaga]]
+		- They people go silent and bartender warns the
+- [[Fredrick J Fazbear|Fazbear]]
+	- Police Wakes him up
+		- He wakes up on the sidewalk by a police waking him
+		- The police just checks on him
+		- The police then remembers him being arrested
+		- The cop tells him to behave
+	- He goes to the [[Pancake Home]] (a 24-hour diner) 
+		- He goes 
+		- He then waits outside a pizzeria 
+- [[John Cook]]
+	- Wakes up in the booth of [[Keel Haller]]
+	- [[Thomas the Bartender|Thomas]] the bartender wakes him up
+	- John Cook goes hunting right away
+	- John Cook on his way runs into an Automaton calls them an "effing canker"
+	- It is his first time
+	- He gets a 300 lbs. Buck and go to get process
+- [[Captain Fabius Grimshaw]]
+	- Investigation
+		- Someone reports that a woman was found dead with several organs surgically removed
+		- She was posed in a "princess-like" dress
+		- He goes and investigates
+		- The body has super precise cuts
+		- Seems like is professional and he tells a detective to keep in mind [[PETA]] workers
+		- She worked at the [[Pancake Home]]
+		- He times how much time it takes to go to the [[Pancake Home]] from her house (Took an hour and 10 minutes)
+		- They found out that she didn't work at the Pancake Home last night even though her boyfriend reported it
+		- He sets up an investigation into the her University Professors 
+	- [[Pancake Home]]
+		- He asks the cashier about whether the girl made into her shift last night
+			- She no showed on her shift
+			- He yaps about there being a professional murder 
+		- He suspects that there might be small magic ability involved 
+		- He goes to Gorzod's and looks in 
+- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+	- Fabius recognizes [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Dragonfire]] and walks in
+	- He questions everyone about the murder for more info then leaves
+		- Didn't find out super much
+		- Gorzod shares about [[Reverend Joel Osterson]]'s daughter and the cult by doesn't seem like a good match
+	- [[Shane Three Sheets O Leary|Shane O'Leary]] comes walk in right as he leaves
+- [[Sai Kata]]
+	- Captain Grimshaw actually waking the same street as Sai, a bit behind him towards customs
+	- Sai enters customs and has something deliver to his ship
+- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+	- Sai enters in right behind Three Sheets
+	- Now there is [[Gorzod Montane|Gorzod]], [[Sai Kata|Sai]], [[Shane Three Sheets O Leary|Three Sheets]], [[Bill Iron Clad Elliott|Iron Clad]], and [[Cortana Dragonfire Elliott|Dragonfire]] in the store
+	- I sell guns to all of them
+- Pizzeria
+	- [[Fredrick J Fazbear|Fazbear]] goes to buy pizza
+	- He goes to the beach to eat his pizza
+- [[John Cook]]
+	- The Bar
+		- Goes to [[The Bar with No Name]]
+		- The bartender is a lizard folk
+		- The bartender calls him a robot and John gets offended breaking the glass in his hand
+		- He puts his tab under [[Captain Fabius Grimshaw|Captain Grimshaw]] 
+		- Then he drinks moonshine
+		- The bartender tell him about the murder
+		- John says clanker must have taken the body parts
+		- Then he has another glass and leaves
+	- The Street
+		- He sings down the street (sounds likes "guttural screaming")
+		- Someone bumps into him and he face plants in the street in front of the university
+		- [[Bill Iron Clad Elliott|Iron Clad]] states "My fellow toaster how are you"
+		- John keeps calling him a Clanker and Iron Clad keeps saying he is one
+		- Iron Clad attempts to grab him show him his reflection
+		- He sees himself as a human in the reflection 
+		- A police officer intervenes and they get separated
+		- The officers smells ethanol in his breath 
+		- John says he has ethanol flavor tooth paste and the officer believes
+		- Officer advices him to avoid hate speech against robots
+		- John says that they are not real people
+		- Then he is let go
+	- The river
+		- He lives in the apartments near the race track. His apartment is right in front of Gorzod's
+		- On his way home he falls off the bridge into the river
+		- He just floats down the river
+		- Custom fishes him out
+	- He walks into Gorzod's
+		- He yells at the Automaton working there
+		- Then he asks Gorzod to maintain his weapons after falling in the river
+		- The he walks into his apartment
+- [[John Bullet]]
+	- He buys the meanest horse "[[Bo Jack]]"
+	- He tames the horse by humming a song
+	- He then stops at Gorzod to buy ammo
+- [[Fredrick J Fazbear|Fazbear]]
+	- Goes to the [[Fair Harbor Inn]]
+	- He walks down a hallway that seems "longer than is should be"
+	- Someone is laying on the bed
+	- He says he has been in that room for 100 years
+	- Fazbear says he is fine sleeping there
+	- Fazbear sleeps on the floor
+- [[Captain Fabius Grimshaw|Captain Grimshaw]]
+	- The killer was left handed
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- Goes back to the ship to tell the captain about gatling guns he acquired
+	- He also tells him about running into Harbor Ghost ([[Sai Kata]])
