@@ -6,7 +6,8 @@ tags:
   - draft
   - session-notes
 created: 2026-08-08T17:51
-updated: 2026-08-08T22:01
+updated: 2026-08-08T22:38
+publish: true
 ---
 - Captain Grim Shaw's Office
 	- The secretary is with [[Crowley Oakenshield]], son of [[Alister Oakenshield]] 

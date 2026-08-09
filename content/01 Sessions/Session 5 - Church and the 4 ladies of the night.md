@@ -7,7 +7,8 @@ tags:
   - draft
   - session-notes
 created: 2026-07-25T18:12
-updated: 2026-08-08T20:19
+updated: 2026-08-08T22:38
+publish: true
 ---
 - [[Lee Valentine]] 
 	- At the [[Far Harbor Inn]]

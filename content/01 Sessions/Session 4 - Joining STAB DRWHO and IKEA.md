@@ -7,7 +7,8 @@ tags:
   - draft
   - session-notes
 created: 2026-07-11T18:02
-updated: 2026-08-08T18:14
+updated: 2026-08-08T22:38
+publish: true
 ---
 - [[Cortana Dragonfire Elliott|Cortana]] and [[Bill Iron Clad Elliott|Iron Clad]]
 	- [[Far Harbor Inn]] - Friday Night

@@ -7,7 +7,8 @@ tags:
   - draft
   - session-notes
 created: 2026-06-13T18:25
-updated: 2026-08-08T18:12
+updated: 2026-08-08T22:37
+publish: true
 ---
 - [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
 	- Store opens at 6 am
