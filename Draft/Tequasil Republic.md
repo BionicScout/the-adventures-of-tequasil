@@ -1,6 +1,6 @@
 ---
 created: 2026-08-08T19:05
-updated: 2026-08-08T19:54
+updated: 2026-08-14T23:02
 title: Tequasil Republic
 aliases:
 tags:
@@ -9,4 +9,4 @@ tags:
 sub-locations:
 factions:
 ---
-![[Leaflets.base#Tequasil Republic]]
+![[Leaflets Base.base#Tequasil Republic]]

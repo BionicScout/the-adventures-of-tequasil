@@ -11,7 +11,7 @@ tags:
 collections:
   - "[[PCs]]"
 created: 2026-08-08T22:23
-updated: 2026-08-14T22:02
+updated: 2026-08-14T23:02
 ---
 ## Key Information
 - Can't Speak common sometimes
@@ -20,4 +20,4 @@ updated: 2026-08-14T22:02
 - Was arrested for breaking enter when entering [[Knoxopolis]]
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

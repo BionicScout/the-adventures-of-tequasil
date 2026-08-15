@@ -1,17 +1,16 @@
 ---
-title: Ya'Voon CIty
+title: Aborville
 aliases:
-  - Ya'Voon CIty
 tags:
   - draft
   - location
-created: 2026-08-08T19:05
-updated: 2026-08-08T20:13
+created: 2026-08-08T19:03
+updated: 2026-08-14T23:02
 marker:
   - mapName: Tequasil Republic
-    coordinates: 416, 92
+    coordinates: 603, 340
 parent-locations: "[[Tequasil Republic]]"
 sub-locations:
 factions:
 ---
-![[Leaflets.base#Ya Voon CIty]]
+![[Leaflets Base.base#Aborville]]

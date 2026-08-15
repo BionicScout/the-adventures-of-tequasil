@@ -5,7 +5,7 @@ tags:
   - draft
   - location
 created: 2026-06-13T18:32
-updated: 2026-08-08T20:15
+updated: 2026-08-14T23:02
 marker:
   - mapName: Knoxopolis
     coordinates: 250, 360
@@ -20,4 +20,4 @@ factions:
 - [[Gorzod Montane|Gorzod]] makes a deal with [[Captain Ryan]]
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

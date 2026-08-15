@@ -1,16 +1,16 @@
 ---
-title: Midway
+title: Moria
 aliases:
-created: 2026-08-08T19:04
-updated: 2026-08-08T20:12
 tags:
   - draft
   - location
+created: 2026-08-08T19:03
+updated: 2026-08-14T23:02
 marker:
-  - coordinates: 467, 430
+  - coordinates: 532, 150
     mapName: Tequasil Republic
 parent-locations: "[[Tequasil Republic]]"
 sub-locations:
 factions:
 ---
-![[Leaflets.base#Midway]]
+![[Leaflets Base.base#Moria]]

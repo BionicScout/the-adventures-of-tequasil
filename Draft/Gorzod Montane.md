@@ -10,7 +10,7 @@ tags:
 collections:
   - "[[PCs]]"
 created: 2026-08-08T22:23
-updated: 2026-08-14T22:02
+updated: 2026-08-14T23:02
 ---
 ![[Gorzok.png|400]]
 
@@ -65,4 +65,4 @@ He was very impressed by the how big [[Knoxopolis]] was and decided it was time 
 - Makes a deal with [[Captain Ryan]] at [[Keel Haller]]
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

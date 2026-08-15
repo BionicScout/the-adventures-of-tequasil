@@ -8,7 +8,7 @@ aliases:
 tags:
   - character/pc
 created: 2026-06-13
-updated: 2026-08-14T22:34
+updated: 2026-08-14T23:02
 publish: true
 player:
 race: Warforge
@@ -23,4 +23,4 @@ last-known-location: "[[Knoxopolis]]"
 - Meets [[Captain Jack Morgan]] and [[Shane Three Sheets O Leary|Three Sheets]]
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

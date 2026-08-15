@@ -5,7 +5,7 @@ tags:
   - draft
   - location
 created: 2026-06-13T18:24
-updated: 2026-08-08T20:49
+updated: 2026-08-14T23:02
 marker:
   - mapName: Tequasil Republic
     coordinates: 264, 732
@@ -22,10 +22,10 @@ factions:
   - "[[PETA]]"
   - "[[FETT]]"
 ---
-![[Leaflets.base#Knoxopolis]]
+![[Leaflets Base.base#Knoxopolis]]
 - Filled with Automatons
 - Has Tesla Coils
 
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

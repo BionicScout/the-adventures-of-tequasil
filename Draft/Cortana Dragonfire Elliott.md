@@ -13,7 +13,7 @@ tags:
 collections:
   - "[[PCs]]"
 created: 2026-08-08T22:23
-updated: 2026-08-14T22:02
+updated: 2026-08-14T23:02
 ---
 ## Key Information
 - Married to [[Bill Iron Clad Elliott|Bill Elliott]]
@@ -23,4 +23,4 @@ updated: 2026-08-14T22:02
 - Meets [[Captain Jack Morgan]] and [[Shane Three Sheets O Leary|Three Sheets]]
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]

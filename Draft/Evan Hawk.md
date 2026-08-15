@@ -8,7 +8,7 @@ tags:
 collections:
   - "[[DnD with Garrett Notes]]"
 created: 2026-08-08T22:28
-updated: 2026-08-14T22:02
+updated: 2026-08-14T23:02
 ---
 ## Details
 A ship owned by [[Captain Jack Morgan]]. [[Shane Three Sheets O Leary|Three Sheets]] is apart of the crew.
@@ -17,4 +17,4 @@ A ship owned by [[Captain Jack Morgan]]. [[Shane Three Sheets O Leary|Three Shee
 - [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]] rode into [[Knoxopolis]] on it
 
 ## Related
-![[Related.base]]
+![[Related Base.base]]
