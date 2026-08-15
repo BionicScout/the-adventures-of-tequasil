@@ -1,11 +1,13 @@
 ---
 title: Welcome to Quartz
 created: 2026-08-08T22:28
-updated: 2026-08-14T22:38
+updated: 2026-08-14T22:55
 ---
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
 
 [[Session 1 - Arriving in Knoxopolis|Session 1]]
 [[Session 2 - Gorzod's Shop and A MURDER!!!]]
