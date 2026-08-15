@@ -4,11 +4,11 @@ aliases:
   - Session 5
   - Church and the 4 ladies of the night
 tags:
-  - draft
   - session-notes
 created: 2026-07-25T18:12
-updated: 2026-08-08T22:38
+updated: 2026-08-14T22:40
 publish: true
+session-number: 5
 ---
 - [[Lee Valentine]] 
 	- At the [[Far Harbor Inn]]

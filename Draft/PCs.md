@@ -4,6 +4,9 @@ categories:
 tags:
   - category/type
   - dnd/garrett
+  - "#draft"
+created: 2026-08-08T22:28
+updated: 2026-08-14T22:00
 ---
 ## PCs
 ![[Collections.base#Table - Description]]

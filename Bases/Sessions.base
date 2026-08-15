@@ -3,12 +3,23 @@ filters:
     - '!file.inFolder("Templates")'
     - file.hasTag("session-notes")
 formulas:
-  Title: ""
+  Title: if(title, file.asLink(title), file.asLink(file.name))
+  Session Number: note["session-number"]
+properties:
+  formula.Session Number:
+    displayName: Session
 views:
   - type: table
     name: Sessions
     order:
-      - file.name
+      - formula.Session Number
+      - created
+      - formula.Title
     sort:
+      - property: session-number
+        direction: DESC
       - property: created
         direction: DESC
+    columnSize:
+      note.created: 112
+      formula.Session Number: 80

@@ -4,11 +4,11 @@ aliases:
   - Session 2
   - Gorzod's Shop and A MURDER!!!
 tags:
-  - draft
   - session-notes
 created: 2026-06-13T18:25
-updated: 2026-08-08T22:37
+updated: 2026-08-14T22:40
 publish: true
+session-number: 2
 ---
 - [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
 	- Store opens at 6 am

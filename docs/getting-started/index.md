@@ -1,8 +1,10 @@
 ---
 title: Getting Started
+created: 2026-08-08T22:01
+updated: 2026-08-14T22:45
 ---
 
-This guide walks you through setting up Quartz from scratch. If you already ran the [[index#🪴 Get Started|quickstart]] on the home page, you can skip ahead to whichever step you're on.
+This guide walks you through setting up Quartz from scratch. If you already ran the [[docs/getting-started/index#🪴 Get Started|quickstart]] on the home page, you can skip ahead to whichever step you're on.
 
 ## Prerequisites
 

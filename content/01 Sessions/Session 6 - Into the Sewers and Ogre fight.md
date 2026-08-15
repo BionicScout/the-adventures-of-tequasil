@@ -1,13 +1,14 @@
 ---
-title:
+title: Into the Sewers and Ogre fight
 aliases:
   - Session 6
+  - Into the Sewers and Ogre fight
 tags:
-  - draft
   - session-notes
 created: 2026-08-08T17:51
-updated: 2026-08-08T22:38
+updated: 2026-08-14T22:39
 publish: true
+session-number: 6
 ---
 - Captain Grim Shaw's Office
 	- The secretary is with [[Crowley Oakenshield]], son of [[Alister Oakenshield]] 

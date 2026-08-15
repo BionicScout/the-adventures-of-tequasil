@@ -12,7 +12,7 @@ formulas:
   BacklinksCount: file.backlinks.length
   TagsOverlap: list(this.file.tags).filter(list(file.tags).containsAny(value)).unique().length
   Testing: "\n"
-  Links - No Bases: |-
+  Links - No Bases: |
     list(this.file.links)
     .filter(value.asFile().ext != "base")
     .filter(list(file.links)
@@ -20,6 +20,7 @@ formulas:
     .unique()
     .sort()
   Links overlap - No Bases: formula["Links - No Bases"].length
+  Title: if(title, file.asLink(title), file.asLink(file.name))
 properties:
   formula.LinksOverlap:
     displayName: Links overlap
@@ -40,13 +41,9 @@ views:
         - this.file.hasLink(file)
         - formula["Links overlap - No Bases"] > 2
     order:
-      - file.name
+      - formula.Title
       - formula.Links - No Bases
     sort:
-      - property: formula.Links - No Bases
-        direction: ASC
-      - property: file.name
-        direction: ASC
       - property: formula.Links overlap - No Bases
         direction: DESC
       - property: formula.TagsOverlap
@@ -57,6 +54,6 @@ views:
         direction: ASC
     limit: 20
     columnSize:
-      file.name: 343
-      formula.Links - No Bases: 792
+      formula.Title: 245
+      formula.Links - No Bases: 452
     rowHeight: medium

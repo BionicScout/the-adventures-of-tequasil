@@ -4,13 +4,14 @@ modified: 2026-07-25
 tags:
   - note
   - dnd/garrett/location
+  - draft
 aliases:
   - Gorzod's Smoke and Steel
   - Gorzod's Smoke & Steel
 collections:
   - "[[Knoxopolis]]"
 created: 2026-06-13T11:41
-updated: 2026-08-08T19:44
+updated: 2026-08-14T22:02
 marker:
   - coordinates: 470, 317
     mapName: Knoxopolis

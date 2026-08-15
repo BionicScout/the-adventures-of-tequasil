@@ -6,6 +6,7 @@ tags:
   - location
 created:
 updated:
+publish: false
 marker:
 parent-locations:
 sub-locations:

@@ -4,11 +4,11 @@ aliases:
   - Session 1
   - Arriving in Knoxopolis
 tags:
-  - draft
   - session-notes
 created: 2026-05-30T18:32
-updated: 2026-08-08T22:37
+updated: 2026-08-14T22:40
 publish: true
+session-number: 1
 ---
 - [[Bill Iron Clad Elliott|Bill Elliott]] and [[Cortana Dragonfire Elliott]] traveling
 	- They see 3 ships, including one huge iron clad heavily armed

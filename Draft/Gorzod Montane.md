@@ -6,8 +6,11 @@ modified: 2026-07-25
 tags:
   - note
   - dnd/garrett
+  - draft
 collections:
   - "[[PCs]]"
+created: 2026-08-08T22:23
+updated: 2026-08-14T22:02
 ---
 ![[Gorzok.png|400]]
 

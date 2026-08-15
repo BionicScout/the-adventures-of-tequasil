@@ -4,11 +4,11 @@ aliases:
   - Session 4
   - Joining STAB, DRWHO, and IKEA
 tags:
-  - draft
   - session-notes
 created: 2026-07-11T18:02
-updated: 2026-08-08T22:38
+updated: 2026-08-14T22:40
 publish: true
+session-number: 4
 ---
 - [[Cortana Dragonfire Elliott|Cortana]] and [[Bill Iron Clad Elliott|Iron Clad]]
 	- [[Far Harbor Inn]] - Friday Night

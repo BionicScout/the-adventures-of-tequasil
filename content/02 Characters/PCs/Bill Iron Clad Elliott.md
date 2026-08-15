@@ -1,16 +1,19 @@
 ---
+title: Iron Clad
 aliases:
   - Iron Clad
   - Bill Elliott
   - Bill
   - Elliott
-date: 2026-06-13
-modified: 2026-07-24
 tags:
-  - note
-  - dnd/garrett
-collections:
-  - "[[PCs]]"
+  - character/pc
+created: 2026-06-13
+updated: 2026-08-14T22:34
+publish: true
+player:
+race: Warforge
+affiliation:
+last-known-location: "[[Knoxopolis]]"
 ---
 ## Key Information
 - Married to [[Cortana Dragonfire Elliott|Cortana Elliott]]
