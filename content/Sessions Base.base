@@ -5,7 +5,7 @@ filters:
 formulas:
   Title: if(title, file.asLink(title), file.asLink(file.name))
   Session Number: note["session-number"]
-  Session Date: created.format("MM-DD-YYYY")
+  Session Date: created.format("MM-DD-YYYY").toString()
 properties:
   formula.Session Number:
     displayName: Session
