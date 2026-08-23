@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-08-08T17:51
-updated: 2026-08-14T22:39
+updated: 2026-08-22T18:32
 publish: true
 session-number: 6
 ---
@@ -116,6 +116,11 @@ session-number: 6
 	- The room has be untouched for a while
 	- She pulls a book but it turns to ash as she grabs it
 	- She finds a chest and finds it empty
+	- She goes to Ikea and awaits her husband
+- Three Sheets
+	- Talks to his brother Jack
+	- Traveled to the [[Evan Hawk]] and talks to the [[Captain Jack Morgan]]
+	- Captain points out 4 sailors walking near the [[Keel Haller]]
 
 
 

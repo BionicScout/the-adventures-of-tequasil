@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-05-30T18:32
-updated: 2026-08-14T22:40
+updated: 2026-08-22T19:30
 publish: true
 session-number: 1
 ---
@@ -110,7 +110,7 @@ session-number: 1
 	- The other bounty others who look at him taking it down
 	- He returns to his ship
 	- He sends one of his crew to check out the [[Keel Haller]]
-- The Bar
+- [[Keel Haller]]
 	- Every one talks about 
 		- the nearby museum 
 		- And about a bear folk being arrested

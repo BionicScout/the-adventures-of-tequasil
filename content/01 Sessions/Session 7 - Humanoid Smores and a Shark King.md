@@ -1,0 +1,130 @@
+---
+title:
+aliases:
+  - Session 7
+tags:
+  - session-notes
+created: 2026-08-22T18:30
+updated: 2026-08-22T20:34
+publish: true
+session-number: 7
+---
+## Sunday
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- [[Evan Hawk]]
+		- The uniforms he sees are pirate uniforms
+		- They are known as the Tide Riders
+		- They are run by the [[Shark King]]
+		- [[Captain Morgan]] knows [[Sai Kata]] through an previous interaction with the Tide Riders
+		- Three Sheets gets some men ready to help him out as he goes to spy on the 4 pirates
+	- [[Keel Haller]]
+		- He enters the bar and sees the pirates sitting in the back
+		- He sits in the bar and talks to [[Thomas the Bartender]]  
+			- The four pirates are wear four different color shirts, reference to the horseman of the apocalypse. 
+			- The civilizations and nations destroyed by the Shark King, the 4 horse pirates always showed up before him ([[Pirates of the Apocalypse]])
+			- The [[Shark King]] would destroy the city by see
+			- It was thought that [[Captain Morgan]] and [[Sai Kata]] destroyed him 
+		- One of waitress doesn't want to take the order over, so Shave offers to do it
+		- He brings it over and they aren't speaking common but primordial, which Shane speaks
+		- The pirates are Tritons    
+		- Shane goes to talk at another table near by eardrops on them
+		- They are happy that the [[Sai Kata]] and [[Captain Morgan]] are in town so they can destroy them
+		- Shane goes outside and tells his crew outside to tail the Tritons
+		- Shane then head backs to the ship
+	- [[Evan Hawk]]
+		- Shane tells the Captain about everything
+		- Shane goes over the [[Tide Breaker]] to work with them
+	- [[Tide Breaker]]
+		- As he boards he calls out he is entering
+		- A hooded figures comes outside and looks at Three Sheets
+		- Shane states the [[Tide Riders]] are in town
+		- He offers for the [[Evan Hawk]] to work with the [[Tide Breaker]]
+		- And then he leaves and heads back
+	- [[Evan Hawk]]
+		- He notices the harbor is closed right now
+		- He speculates that the [[Pirates of the Apocalypse|Tritons of the Apocalypse]] might have come in another way other than ships
+		- He reports back to captain
+		- Captain sends autonomation bird out to deliver a message
+		- He then goes to sleep?
+- [[John Cook]]
+	- [[The Bar with No Name]]
+		- He buys a strong drink puts it on [[Grimshaw]]'s tab
+		- 6 Warforge walk into the bar
+		- Bullet is drunk
+		- The bartender won't kick them out because they pay well
+		- He drinks 99% alcohol 
+		- Bullet tells "the wire bags" to shut up because they are being well
+		- Bullet says he is not a clanker
+		- They stand up and shove Bullet
+		- Bullet reaches for his gun, but he doesn't have it back yet
+		- One of the Warforge punches Bullet
+		- Bullet dodges and the "kung fu"-s all 6 warforge out
+		- Bullet toss the Warforge out of the bar
+		- Then he heads home, singing loudly
+		- He stumbles up the stairs to his apartment, slips and falls, and repeats
+- Sewer 
+	- [[Gorzod Montane|Gorzod]], [[Bill Iron Clad Elliott|Iron Clad]], [[Lee Valentine]], [[Grimshaw]], and [[Fredrick J Fazbear|Fredrick]]
+	- The hooded figure is a Guardian of the [[Cult of the Crimson Thread]]
+	- Iron Clad open fires
+	- Everyone open fires on him and he starts to laugh
+	- The hooded figure then dash backwards allowing the room to erupt into flame and electricity, knocking everyone out
+- [[Cortana Dragonfire Elliott|Cortana]]
+	- [[International Konclave of Enlightened Artificers|IKEA]]
+		- It has been almost all day, and [[Bill Iron Clad Elliott|Iron Clad]] hasn't return
+		- She goes back to the [[Fair Harbor Inn]]
+		- [[Tea Leaf]] questions where her husband is
+		- [[Elizabeth the Ghost of Far Harbor Inn]] and [[Bill Iron Clad Elliott|Iron Clad]] in the room
+		- Iron Clad is burned and hurt
+		- She checks on Iron Clad
+		- He is still breathing
+		- She goes to sleep
+## Monday
+- [[John Bullet]]
+	- [[PETA]]
+		- He passed out from blood lost and exhaustion (Sunday)
+		- He wakes up
+		- He gets up with his wounds healed
+		- He walks out into the hall, looks about 7:30 in the morning
+		- He is has been healed for free
+		- Then he leaves and heads to DRWHO to pick up his cart
+		- Then he heads to get another horse
+		- He is informed that larger horses can be bought up north
+		- He walks his cart up north
+- [[Gorzod Montane|Gorzod]]
+	- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+		- I'm in my bed room
+		- Gizmo
+			- A fellow brought me here
+			- A figure in a black cloak
+			- He let himself in
+		- Front door is fixed
+		- Gorzod opens the shops and prepares the guns for the police order
+		- Then he heads to the police station
+- [[Grimshaw]]
+	- Grimshaw's place
+		- He wakes up
+		- He is interrupted by banging
+		- [[Alister Oakenshield]] is missing
+		- Also there have been 3 more murder in the park (9 total murders)
+		- He tells the officers that there is a cult in the sewer
+		- A stranger brought him in
+		- No one questioned him
+	- The Park
+		- A minotaur a centaur and satarre
+		- Matches the killers description
+		- Grimshaw brings the bodies to the Coroner's Office
+		- He goes to the [[The Bar with No Name]]
+- [[Fredrick J Fazbear|Fredrick]]
+	- [[Fair Harbor Inn]]
+		- He is colder than normal
+		- He looks like he has been shaven
+		- He learns to put pants on
+	- [[Bizzarre]]
+		- He looks to buy clothes
+		- Then he heads back to inn
+	- [[Fair Harbor Inn]]
+		- [[Tea Leaf]] greets him
+		- A hooded figure brought him in
+	- [[Bizzarre]]
+		- Goes back to get buy the clothes with his money this time
+		- He buys food

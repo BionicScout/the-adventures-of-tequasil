@@ -8,7 +8,7 @@ aliases:
 tags:
   - character/pc
 created: 2026-06-13
-updated: 2026-08-14T23:02
+updated: 2026-08-22T19:34
 publish: true
 player:
 race: Warforge
@@ -20,7 +20,10 @@ last-known-location: "[[Knoxopolis]]"
 
 ## Activity Log
 - Boards the [[Evan Hawk]] to reach [[Knoxopolis]]
-- Meets [[Captain Jack Morgan]] and [[Shane Three Sheets O Leary|Three Sheets]]
+- Rides the [[Evan Hawk]] in [[Knoxopolis]]
+- Goes to [[Keel Haller]]
+- Encounters [[John Cook]] for the first time. He call Iron Clad a "Clanker"
+- Books in at the [[Fair Harbor Inn]]
 
 ## Related
 ![[Related Base.base]]
