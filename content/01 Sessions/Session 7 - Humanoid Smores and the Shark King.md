@@ -5,11 +5,11 @@ aliases:
 tags:
   - session-notes
 created: 2026-08-22T18:30
-updated: 2026-08-22T20:34
+updated: 2026-08-22T22:24
 publish: true
 session-number: 7
 ---
-## Sunday
+## Sunday (cont.)
 - [[Shane Three Sheets O Leary|Three Sheets]]
 	- [[Evan Hawk]]
 		- The uniforms he sees are pirate uniforms
@@ -128,3 +128,86 @@ session-number: 7
 	- [[Bizzarre]]
 		- Goes back to get buy the clothes with his money this time
 		- He buys food
+- [[Lee Valentine]]
+	- [[Tide Breaker]]
+		- He wakes up
+		- And there is a letter right in front of him
+		- It is a letter with detailed information of the city from [[Ghost Blade]]
+		- The letter also mention stuff about "friends from past"
+		- He calls [[Jade]]
+		- He sends a bird out to fetch 3 friends
+		- He also sends for [[Moon]]
+		- He sends [[Ghost Blade]] to look for [[Alister Oakenshield]]
+		- [[Bags Inn]] info
+			- Mother's name is [[Catherine O Leary|Catherine O'Leary]]
+			- [[Gwen]] and [[Jack]] are here children who help run it
+			- Three Sheets is also her child
+			- [[Thomas]] Father and Older brother [[Conner]] was killed in War
+		- A railroad had to be put in [[Tequasil Republic]] after the war connecting East and West
+		- He sends someone to look [[Ya Voon CIty|Ya'Voon City]] to find things 
+		- A shadow figure brought him here
+		- He sends a bird to [[Captain Morgan]] say he will help
+		- [[Lee Valentine]] heads out
+- [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]]
+	- [[Far Harbor Inn]]
+		- He wakes up next to his wife
+		- He nudges her awake
+		- He goes to talk to [[Tea Leaf]]
+		- The cloaked man brought him in
+		- They head to [[International Konclave of Enlightened Artificers|IKEA]]
+	- [[International Konclave of Enlightened Artificers|IKEA]]
+		- They look to see if the sewers connect here
+		- Elliots offer their service to them
+		- They don't have any
+		- They go to the library 
+- [[John Cook]]
+	- He wakes up in the stair well
+	- He goes to pick up his guns
+- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+	- Cook Interaction
+		- Cook comes in
+		- Cook lies and doesn't have gold
+		- Gorzod charges 100 gp for guns and door
+		- Gorzod steal counts Cook's pouch and counts his coins (120 GP)
+		- Elliots walk by and see Gorzod on the way to library
+		- Elliots walk in
+		- Cook doesn't remember Iron Clad, thinking it was one he beat up yesterday
+		- Cook accuses Iron Clad of being the
+		- Gorzod take 120 GP from the pouch
+		- Iron Clad smacks him out of the store
+		- Gorzod return his pouch (lighter) and repaired weapons
+	- The group
+		- Iron Clad and Gorzod start to talk about last night
+		- Grimshaw walks by
+		- Grimshaw starts to drag John Cook but he gets up and walks away
+		- Cook hides and just disappears from sight
+		- Gorzod sends the invoice to Grimshaw
+		- Bullet shows up and buys guns for 350 GP
+		- Fredrick shows up short haired, confused
+		- Bullet agrees to take the guns over the police station in his cart
+	- We all head to the [[Keel Haller]]
+- [[Keel Haller]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] sees everyone enter the Keel Haller from the ship
+	- [[Thomas the Bartender]] seats us 
+	- [[Gorzod Montane|Gorzod]] gets a round for everyone
+	- [[Captain Morgan]] walks over and joins the table
+	- [[Sai Kata]] enters and joins us
+	- Everyone but [[Cortana Dragonfire Elliott|Cortana]] sees a group of 4 Tritons walk out 
+	- Captain Morgan speak
+		- We hear about the Tritons and the Shark King
+		- The Harbor Ghost, also know as Sai Kata, is introduced to us
+		- We will ride on the [[Tide Breaker]] and [[Evan Hawk]] to take the fight to the [[Shark King]]
+		- They have an underwater base
+		- We are split into 2 ships and depart
+	- [[Tide Breaker]]
+		- [[Sai Kata]]
+		- [[Gorzod Montane|Gorzod]]
+		- [[Fredrick J Fazbear|Fredrick]]
+		- [[Bill Iron Clad Elliott|Iron Clad]]
+		- [[Cortana Dragonfire Elliott|Cortana]]
+	- [[Evan Hawk]]
+		- [[Shane Three Sheets O Leary|Three Sheets]]
+		- [[John Cook]]
+		- [[John Bullet]]
+		- [[Grimshaw]]
+	- We buy final supplies and depart
