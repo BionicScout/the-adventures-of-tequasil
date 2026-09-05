@@ -1,5 +1,5 @@
 ---
-title:
+title: To War
 aliases:
   - Session 8
 tags:
