@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-08-22T18:30
-updated: 2026-08-22T22:25
+updated: 2026-09-05T18:58
 publish: true
 session-number: 7
 ---
@@ -65,7 +65,7 @@ session-number: 7
 		- He stumbles up the stairs to his apartment, slips and falls, and repeats
 - Sewer 
 	- [[Gorzod Montane|Gorzod]], [[Bill Iron Clad Elliott|Iron Clad]], [[Lee Valentine]], [[Grimshaw]], and [[Fredrick J Fazbear|Fredrick]]
-	- The hooded figure is a Guardian of the [[Cult of the Crimson Thread]]
+	- The hooded figure is a Guardian of the [[The Order of the Scarlet Thread]]
 	- Iron Clad open fires
 	- Everyone open fires on him and he starts to laugh
 	- The hooded figure then dash backwards allowing the room to erupt into flame and electricity, knocking everyone out
