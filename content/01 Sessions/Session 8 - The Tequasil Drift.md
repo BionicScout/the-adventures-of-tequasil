@@ -1,0 +1,104 @@
+---
+title: The Tequasil Drift
+aliases:
+  - Session 8
+  - The Tequasil Drift
+tags:
+  - session-notes
+created: 2026-09-05T18:22
+updated: 2026-09-05T22:11
+publish: false
+session-number:
+---
+## Monday Afternoon
+- Both ships take off into the ocean about 4 pm
+- The [[Knoxopolis]] Harbor is closed to all after we left
+- [[Evan Hawk]] is an Iron Clad
+	- [[Captain Jack Morgan]] address the crew
+		- He introduces the party members
+		- He gives a moral speech 
+		- The crew War Cries
+	- Travel Time
+		- [[Shane Three Sheets O Leary|Three Sheets]] is driving the ship
+		- [[John Cook]] and [[John Bullet]] starts to feel sick
+		- "How the hell is a Warforge getting sea sick!!?!?!" - [[Shane Three Sheets O Leary|Three Sheets]]
+		- [[Grimshaw]] goes to comfort [[John Cook]]
+		- Grimshaw calls him a delusional warforge
+		- Cook purposely throws up in his direction 
+		- [[John Bullet]] feeling sick lays on the floor to hope and feel better
+		- He starts to feel vertigo 
+- [[Tide Breaker]] is an Iron Clad
+	- [[Sai Kata]] address the crew
+		- He tells the crew to look in
+	- Travel Time
+		- [[Gorzod Montane|Gorzod]] is given a few crew members to work on improving the guns
+		- [[Gorzod Montane|Gorzod]] speaks to [[Sai Kata]] about cross ship communication
+		- [[Gorzod]] sends the mechanical falcon to [[Shane Three Sheets O Leary|Three Sheets]] telling him to buy guns at Gorzod's	
+		- [[Fredrick J Fazbear|Fredrick]] loses the ability to understand common
+		- He looks out into ocean 
+		- [[Cortana Dragonfire Elliott|Cortana]] is also watching the horizon
+		- [[Iron Clad]] mount a gun on the ship
+		- [[Fredrick J Fazbear|Fazbear]] notices something in the distance
+		- [[Fredrick J Fazbear|Fazbear]] tries to signal [[Sai Kata]] by pointing in that direction but he doesn't see
+		- [[Fredrick J Fazbear|Fazbear]] tries to tells many other crew members but not of them see it
+		- Then he goes to  [[Bill Iron Clad Elliott|Iron Clad]] and he kind of notices but not really
+		- Fazbear tries to get [[Gorzod Montane|Gorzod]]'s attention and Gorzod smacks him with a walking stick
+		- No one else notices
+- [[Evan Hawk]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] kind a notices and asks [[Captain Morgan]] to look at it
+	- [[Captain Morgan]] asks the crew to get ready
+- Both of ships are covered in a thick white smoke
+	- [[Fredrick J Fazbear|Fredrick]] who can't see runs into a wall and now can speak common
+	- On the [[Evan Hawk]] everyone can hear [[Captain Morgan]]'s voice very clearly telling to stay calm
+	- [[Sai Kata]] gets a lever from [[Captain Morgan]] to ready the crew
+	- [[Gorzod Montane|Gorzod]] uses his alchemist supplies an sees the smoke is a dense Water Vapor
+- We come out on the other side of fog
+	- 4 Ship are on the horizon with a set of symbols on them 
+	- Each of the sails are black with 4 different logos with Greek letter and a color
+	- [[Captain Morgan]] rallies the crew and both ships increase in speed
+	- The enemy ships are charging at us too
+	- The [[Evan Hawk]] and [[Tide Breaker]] shoots a chain shot at the enemy ships causing damage to the sails/masses
+	- [[Shane Three Sheets O Leary|Three Sheets]] sails between two of the ships and [[Captain Morgan]] fires cannon on both sides
+	- The [[Tide Breaker]] side swipes one of the ships
+	- The [[Evan Hawk]] spins the ship back around charges the ship, and then spins sideways releasing a volley at the ships (The Tequasil Drift)
+	- The one ship has been sunk
+	- A ship sends a volley at the [[Evan Hawk]]
+	- The [[Evan Hawk]] then sinks another ship
+	- The crew of the other ship are tritons
+	- Then the [[Tide Breaker]] sinks another ship
+	- [[Gorzod Montane|Gorzod]] and [[Bill Iron Clad Elliott|Iron Clad]] have been using the gatling guns (brought to you by Gorzod)
+	- The fourth ship was destroyed
+	- [[Fredrick J Fazbear|Fredrick]] climbs up the mass
+
+## Monday Evening
+- After the sinking
+	- [[Sai Kata]] and [[Captain Morgan]] talk about getting ready for a fight
+	- They are going to split 100 yards apart so they don't interfere with each other
+	- [[Grimshaw]] brings sniper rifles up the mass
+	- It gets quite but the sun is back out although it is getting dark
+	- [[John Bullet]] and [[Bill Iron Clad Elliott|Iron Clad]] see 4 shark fins on the horizon moving towards the ships
+	- As they get closer, on the back of the sharks we see the Triton on each. They are the  [[Pirates of the Apocalypse]].
+	- The Tritons board the ships (2 each)
+- Combat [[Tide Breaker]]
+	- [[Bill Iron Clad Elliott|Iron Clad]] shoots at one of them with two fatal shot while [[Sai Kata]] and [[Gorzod Montane|Gorzod]] attack to, leaving him a bloody mess
+	- [[Cortana Dragonfire Elliott|Cortana]] fires upon the second one
+	- [[Fredrick J Fazbear|Fredrick]] goes to his a Triton but misses. In turn, the Tritons start attacking Fredrick.
+	- The megalodons ram into the ship knocking [[Bill Iron Clad Elliott|Iron Clad]] prone
+	- [[Iron clad]] starts shooting the second one
+	- [[Fredrick J Fazbear|Fredrick]] misses more melee attacks
+	- [[Gorzod]] shoots the first one, blasting the Triton into the water with his shotgun
+	- [[Sai Kata]] attacks the second Triton with acid
+	- [[Cortana Dragonfire Elliott|Cortana]] also missed
+	- The megalodons continue shaking the ship, causing everyone but [[Cortana Dragonfire Elliott|Cortana]] to go prone
+	- Everyone stands up back up
+	- [[Gorzod Montane|Gorzod]] pulls [[Fredrick J Fazbear|Fredrick]] away from the Tritons
+	- [[Cortana Dragonfire Elliott|Cortana]] throws daggers at Tritons
+	- [[Bill Iron Clad Elliott|Iron Clad]] continues to unleash fire on the Triton
+	- [[Fredrick J Fazbear|Fredrick]] bludgeons the Triton in the head and knocks off the Triton
+	- The megalodons are still shaking the ship
+	- [[Sai Kata]] burns them with Greek fire, then fishes them out for dinner
+- Combat [[Evan Hawk]]
+	- Epic Moments
+	- (Sleepy Note Taker sorry)
+	- [[Shane Three Sheets O Leary|Three Sheets]] taunts the Tritons a lot
+- A giant ship comes out and appears
