@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-09-19T18:31
-updated: 2026-09-19T22:01
+updated: 2026-09-19T22:02
 publish: true
 session-number: 9
 ---
@@ -97,6 +97,7 @@ session-number: 9
 -  MURDER!!!
 	- After leaving, [[Shane Three Sheets O Leary|Three Sheets]] goes to investigate near the park of the murder
 	- He can tell the murders didn't happen in the park
+	- He finds a sewer access near by
 	- He ends up walking and feels there might be danger near by
 	- [[Shane Three Sheets O Leary|Three Sheets]] walks into [[FIST]]
 	- There are two figures in the center of the arena facing each other
@@ -108,8 +109,6 @@ session-number: 9
 	- [[Shane Three Sheets O Leary|Three Sheets]] then asks to be deputized 
 	- They go to see the bodies
 	- The cornier [[Judy]] starts to cry because the Haregon was his older brother 
-## Tuesday Morning
-
 
 
 

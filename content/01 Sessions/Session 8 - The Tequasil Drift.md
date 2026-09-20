@@ -6,9 +6,9 @@ aliases:
 tags:
   - session-notes
 created: 2026-09-05T18:22
-updated: 2026-09-19T18:40
-publish: false
-session-number:
+updated: 2026-09-19T22:04
+publish: true
+session-number: 8
 ---
 ## Monday Afternoon
 - Both ships take off into the ocean about 4 pm
