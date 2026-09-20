@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-09-19T18:31
-updated: 2026-09-19T22:02
+updated: 2026-09-19T22:09
 publish: true
 session-number: 9
 ---
@@ -109,6 +109,7 @@ session-number: 9
 	- [[Shane Three Sheets O Leary|Three Sheets]] then asks to be deputized 
 	- They go to see the bodies
 	- The cornier [[Judy]] starts to cry because the Haregon was his older brother 
+	- They bodies have only been killed in the last few hours
 
 
 
