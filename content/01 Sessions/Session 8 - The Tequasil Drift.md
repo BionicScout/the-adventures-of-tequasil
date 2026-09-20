@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-09-05T18:22
-updated: 2026-09-05T22:11
+updated: 2026-09-19T18:40
 publish: false
 session-number:
 ---
@@ -101,4 +101,5 @@ session-number:
 	- Epic Moments
 	- (Sleepy Note Taker sorry)
 	- [[Shane Three Sheets O Leary|Three Sheets]] taunts the Tritons a lot
+	- [[Captain Morgan]] was epic
 - A giant ship comes out and appears
