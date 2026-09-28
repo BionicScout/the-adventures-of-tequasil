@@ -6,11 +6,11 @@ aliases:
 tags:
   - session-notes
 created: 2026-08-22T18:30
-updated: 2026-09-05T20:55
+updated: 2026-09-28T13:24
 publish: true
 session-number: 7
 ---
-w## Sunday (cont.)
+## Sunday (cont.)
 - [[Shane Three Sheets O Leary|Three Sheets]]
 	- [[Evan Hawk]]
 		- The uniforms he sees are pirate uniforms
