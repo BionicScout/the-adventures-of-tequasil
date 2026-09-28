@@ -2,8 +2,14 @@
 tags:
   - note
 created: 2026-08-08T22:23
-updated: 2026-09-28T13:30
+updated: 2026-09-28T13:43
 ---
+
+
+[[The revolt]]
+
+
+
 ## Frontier
 Gorzod Montane (Gore-zod Mon-Tane) grew up in the frontier of Montana. He was born into a small village orcs who has been living in the village for only 8 years. As a kid, he always had a knack for put things together. One example of this was him making a mini firework launcher out materials from his house. His parents took noticed and started to train him to be a smith. Gorzod by the time he was a teenager became the town's gunsmith.
 
