@@ -1,11 +1,10 @@
 ---
-title:
+title: Knoxopolis
 aliases:
 tags:
-  - draft
   - location
 created: 2026-06-13T18:24
-updated: 2026-08-14T23:02
+updated: 2026-10-31T18:34
 marker:
   - mapName: Tequasil Republic
     coordinates: 264, 732
