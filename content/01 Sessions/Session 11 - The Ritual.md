@@ -1,0 +1,119 @@
+---
+title: The Ritual
+aliases:
+  - Session 11
+  - The Ritual
+tags:
+  - session-notes
+created: 2026-10-17T18:19
+updated: 2026-10-31T18:27
+publish: false
+session-number: 11
+---
+- [[Far Harbor Inn]] investigation
+	- The police question [[Tea Leaf]]
+	- She asked for a warrant 
+	- Then they couldn't investigate
+- Man Hunt for the Leonin 
+	- The Leonin is connected to a royal blood line and is the final person needed for a ritual
+	- [[Shane Three Sheets O Leary|Three Sheets]] investigates the East Side of the city and sending officers in many direction
+	- Officers find nothing at [[Cathedral of Saint Antioch]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] finds the Leonin and an Air and Earth Genassi appear out of the ground. They open the ground take the Leonin.
+	- [[Shane Three Sheets O Leary|Three Sheets]] and officers go into the nearest sewer
+	- Three Sheets follows a path to the park
+	- He pushes a head
+- [[Fredrick J Fazbear|Fazbear]], [[John Bullet]], [[Grimshaw]], [[John Cook]]
+	- They all show up to [[University Tequasil]]
+	- Grimshaw gives the others badges
+	- [[Grimshaw]] finds [[Dr Brown]] talking to [[Feord Agustine]]
+	- [[Feord Agustine]] is an expert on the occult
+	- The occult have a myth about the re-weaving. That includes needing a alive child.
+	- [[Grimshaw]] tells the other to split and search for the kid
+		- [[John Bullet]] goes north
+		- [[John Cook]] goes West
+		- [[Fredrick J Fazbear|Fazbear]] goes East
+		- [[Grimshaw]] goes to find [[Shane Three Sheets O Leary|Three Sheets]]
+- [[John Cook]] continues looking above ground
+- [[John Bullet]] and [[Fredrick J Fazbear|Fazbear]] goes into the sewers but does not see a child
+	- They both are lost
+	- The run into each other, and [[John Bullet]] falls into the acid
+	- They eventually run into [[Shane Three Sheets O Leary|Shane]]
+	- [[John Bullet]] and [[Fredrick J Fazbear|Fazbear]] wrestle, both falling to acid
+	- [[Shane Three Sheets O Leary|Three Sheets]] tells them to stop screwing around
+	- [[Shane Three Sheets O Leary|Shane]] says they need to wait the others and [[John Bullet]] keeps moving forward
+	- [[John Bullet]] climbs the ladder down and start to cough. Yet he continues
+	- He runs into a split path and goes left, and he is coughing up acid 
+	- [[Fredrick J Fazbear|Fazbear]] also travels down the ladder and the acid burns his bare bear feet and then climbs back up
+	- [[Grimshaw]] and [[John Cook]] bring police in the sewer near [[Shane Three Sheets O Leary|Three Sheets]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] shares about how stupid the other two are
+	- [[John Cook]] continues down the tunnel and tells [[Fredrick J Fazbear|Fazbear]] to go to [[PETA]]
+	- [[John Bullet]] comes back climbs up the ladder
+	- [[Grimshaw]] gives everyone hazmat suits
+- [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]] are looking for [[Lee Valentine]]
+	- They go to [[International Konclave of Enlightened Artificers|IKEA]] and look
+	- [[Bill Iron Clad Elliott|Iron Clad]] tries to imitate the receptionist to find [[Lee Valentine]]
+	- Then the receptionist pulls a gun out 
+	- [[Bill Iron Clad Elliott|Iron Clad]] pulls out a gun and tells them [[Lee Valentine]] left
+	- [[Cortana Dragonfire Elliott|Cortana]] go find [[Gorzod Montane|Gorzod]] and they yap
+	- Then [[Gorzod Montane|Gorzod]] continues to work
+	- Officers come into [[International Konclave of Enlightened Artificers|IKEA]] look for hazmat suits.
+	- Then they tell [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]] they are in the sewer
+	- [[Gorzod Montane|Gorzod]] is told to go to the sewer
+	- [[Bill Iron Clad Elliott|Iron Clad]] and [[Gorzod Montane|Gorzod]] go to the sewer
+	- They head to the sewer
+- [[Cortana Dragonfire Elliott|Cortana]] goes to find [[Lee Valentine]]
+	- [[Cortana Dragonfire Elliott|Cortana]] finds [[Captain Morgan]] and asks to borrow a raven
+	- He sends it to [[Lee Valentine]]
+	- As she exits the ship, he sees [[Chase]] on the dock
+	- He takes [[Cortana Dragonfire Elliott|Cortana]] to the [[Tide Breaker]]
+	- [[Lee Valentine]] walks out,
+	- [[Cortana Dragonfire Elliott|Cortana]] asks [[Lee Valentine]] about a ritual
+	- [[Moon]] gives report to them saying everyone is going to the sewers chasing ritual leads
+	- They decide to check out the [[Far Harbor Inn]] and then two manors
+	- [[Lee Valentine]] sends some of his crew down to the sewers
+- [[Far Harbor Inn]]
+	- [[Tea Leaf]] is sitting at the desk
+	- They start to question [[Tea Leaf]]
+	- [[Tea Leaf]] lets slip she knows about the ritual
+	- [[Cortana Dragonfire Elliott|Cortana]] tells [[Tea Leaf]] they sent the police
+	- The [[shadow man of Far Harbor Inn]] won't allow the [[The Order of the Scarlet Thread]] near the [[Far Harbor Inn]]
+	- The royal bloodline have had encounters before the weave was separated and they fought against the creature who destroyed the weave
+	- [[Tea Leaf]]  tells them the manors are not connected to the ritual, but the two kids of those families are (the master assassins)
+	- [[Cortana Dragonfire Elliott|Cortana]] heads to the sewers and [[Lee Valentine]] heads back to his ship
+	- [[Lee Valentine]] gets his crew to go to the train station wait to head to [[Ya Voon CIty]]
+- Sewers
+	- We all finally get there
+	- The Yap Session
+		- The assassins might be half vampires
+		- The Weave was separated by the defenders cause it gave [[The Invaders]] power
+		- The invaders came from beyond the stars
+		- The invaders were also called the [[Emerald Knights]]
+		- [[Bill Iron Clad Elliott|Iron Clad]] talks about [[The city Forgotten to Time]] and [[The Tattered Spire]] which held [[The Council of Wizards]]
+	- Moving to Find the kid
+		- [[Jade]], [[Chase]], and [[Moon]] are here
+		- We go into the tunnel
+		- [[Fredrick J Fazbear|Fazbear]] say he smells sulfur
+		- We go through the tunnels and down the steps under the steps
+		- [[Shane Three Sheets O Leary|Three Sheets]] hears 4 voices down the hall.
+- [[Lee Valentine]] makes his way to railyard
+	- [[Ghost Blade]] tells [[Lee Valentine]] that Leonin had been found dead outside [[Cathedral of Saint Antioch]]
+	- [[Lee Valentine]] makes his way to the sewers to tell everyone
+- Sewers
+	- [[Gorzod Montane|Gorzod]] and [[Bill Iron Clad Elliott|Iron Clad]] move closer and the hear that other murder is done and the ritual is ready to start
+	- [[Fredrick J Fazbear|Fazbear]], [[Gorzod Montane|Gorzod]], and [[John Cook]] sneak into the room and flank attack them
+	- We killed 4 of them. We killed the defenders of the cult
+	- Several people including Gorzod grab Gold Boots
+	- They move on
+	- There a red light in the room
+	- There is chanting in an unknown language
+	- We enter the room and ritual has started, the kid is bound down by magic
+	- We attack Priest while the priestess escapes 
+	- After killing the them, the magic and the room leaves
+	- The child however is dead
+	- [[Cortana Dragonfire Elliott|Cortana]] picks up the [[Dagger of the Blackest Knight]] 
+	- [[Shane Three Sheets O Leary|Three Sheets]] grabs the [[Sickle of the Scarlet Priestess]]
+	- We exit the sewer with the childs body
+- As we exit the sewer, we here someone clapping
+	- It is [[Guy]]
+	- He congratulates us on passing this trial
+	- Then he tells us to get some good sleep
