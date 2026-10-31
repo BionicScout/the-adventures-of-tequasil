@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-17T18:19
-updated: 2026-10-31T18:27
+updated: 2026-10-31T18:38
 publish: false
 session-number: 11
 ---
@@ -117,3 +117,4 @@ session-number: 11
 	- It is [[Guy]]
 	- He congratulates us on passing this trial
 	- Then he tells us to get some good sleep
+	- Then we all head home
