@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T23:23
+updated: 2026-10-31T23:49
 publish: true
 session-number: 12
 ---
@@ -186,15 +186,22 @@ session-number: 12
 	- We all walk up to death and he shrink to 6ft
 	- We congratulates us
 	- "As we walk through the Valley of Death, we fear no evil" - [[Shane Three Sheets O Leary|Three Sheets]]
-- We pick a direction to walk through the canopy of the trees
-- We see dancing lights in the distance
-- We hear children laughing from a small cabin in the woods
-- [[John Bullet]] is the only one to walk to the cabin
-- He walks in an old lady ask where is friends are
-- [[Bill Iron Clad Elliott|Iron Clad]] yells there is cat over here but [[John Bullet]] ignores him
-- [[Cortana Dragonfire Elliott|Cortana]] asks the old lady for answer of why we are there and she got none
-- As [[Gorzod Montane|Gorzod]] [[Cortana Dragonfire Elliott|Cortana]], and [[Shane Three Sheets O Leary|Three Sheets]] whistle, we here people whistle back in 9 different directions
-- [[Gorzod]] walks in the sound of the call back whistle
-- Everyone does the same
-- We each see only a copy of ourself
-- 
+- Woods
+	- We pick a direction to walk through the canopy of the trees
+	- We see dancing lights in the distance
+	- We hear children laughing from a small cabin in the woods
+	- [[John Bullet]] is the only one to walk to the cabin
+	- He walks in an old lady ask where is friends are
+	- [[Bill Iron Clad Elliott|Iron Clad]] yells there is cat over here but [[John Bullet]] ignores him
+	- [[Cortana Dragonfire Elliott|Cortana]] asks the old lady for answer of why we are there and she got none
+	- As [[Gorzod Montane|Gorzod]] [[Cortana Dragonfire Elliott|Cortana]], and [[Shane Three Sheets O Leary|Three Sheets]] whistle, we here people whistle back in 9 different directions
+	- [[Gorzod]] walks in the sound of the call back whistle
+	- Everyone does the same
+	- We each see only a copy of ourself
+	- Some people talk to there doubles
+	- As we follow the red light, our paths reconverge and we exit the woods
+- We enter into [[Knoxopolis]] burning in the dream
+	- Various creatures of non-earth origins 
+	- There are red eyes in the sky
+	- "It appears your efforts will be futile"
+- We wake up
