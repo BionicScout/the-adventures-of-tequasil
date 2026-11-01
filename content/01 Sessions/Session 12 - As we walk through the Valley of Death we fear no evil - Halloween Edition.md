@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T23:21
+updated: 2026-10-31T23:23
 publish: true
 session-number: 12
 ---
@@ -195,3 +195,6 @@ session-number: 12
 - [[Cortana Dragonfire Elliott|Cortana]] asks the old lady for answer of why we are there and she got none
 - As [[Gorzod Montane|Gorzod]] [[Cortana Dragonfire Elliott|Cortana]], and [[Shane Three Sheets O Leary|Three Sheets]] whistle, we here people whistle back in 9 different directions
 - [[Gorzod]] walks in the sound of the call back whistle
+- Everyone does the same
+- We each see only a copy of ourself
+- 

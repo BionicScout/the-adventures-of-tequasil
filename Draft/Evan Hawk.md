@@ -5,9 +5,8 @@ tags:
   - note
   - draft
 collections:
-  - "[[DnD with Garrett Notes]]"
 created: 2026-08-08T22:28
-updated: 2026-10-31T18:37
+updated: 2026-10-31T23:31
 ---
 ## Details
 A ship owned by [[Captain Jack Morgan]]. [[Shane Three Sheets O Leary|Three Sheets]] is apart of the crew.
