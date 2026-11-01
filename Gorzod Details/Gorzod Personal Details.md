@@ -1,21 +1,8 @@
 ---
-aliases:
-  - Gorzod
-date: 2026-05-13
-modified: 2026-07-25
-tags:
-  - note
-  - draft
-collections:
-  - "[[PCs]]"
-created: 2026-08-08T22:23
-updated: 2026-10-31T18:33
+created: 2026-10-31T21:41
+updated: 2026-10-31T21:49
 ---
-![[Gorzok.png|400]]
 
-## Character Info
-### Description
-Gorzod Montane is a broad-shouldered, rugged orc gunsmith who operates one of the most respected workshops in Knoxopolis. A master craftsman with a keen eye for detail, he produces reliable, high-quality firearms ranging from sturdy revolvers to powerful long rifles that supply local farms, trading caravans, and town militias. Though his business now thrives, a slight limp in his left leg and the quiet intensity behind his eyes hint at a harder life on the frontier. Customers appreciate his honest work and straightforward manner, but those who know him best understand he is more than a simple shopkeeper. After leading a daring rescue of a government official’s kidnapped daughter from the bloodthirsty Order of the Crimson Rose, Gorzod’s reputation soared, turning his store into a local success.
 ### Details
 - Hair - Black balding head
 - Skin - Gray with blue sheen
@@ -46,22 +33,3 @@ He was very impressed by the how big [[Knoxopolis]] was and decided it was time 
 - My past still haunts me. I have trouble forming close relationships and sometimes push people away to avoid reliving the pain of losing my family and village.
 - I have a burning hatred for slavers, raiders, and cults. 
 - I still carry guilt for the years I spent arming goblins. Because of this, I am sometimes overly cautious about who I sell weapons to, which can cost me business or create enemies.
-
-### Notes
-**Organizations**
-- 
-**Allies**
-- [[Reverend Joel Osterson]] of [[Mount of Olives Church]] and Head of [[Department of Natural Resources]]
-**Enemies**
-- [[Goblin Chieftain Havre]]
-- [[The Order of the Crimson Rose]]
-**Other**
-
-
-
-
-## Activity Log
-- Makes a deal with [[Captain Ryan]] at [[Keel Haller]]
-
-## Related
-![[Related Base.base]]

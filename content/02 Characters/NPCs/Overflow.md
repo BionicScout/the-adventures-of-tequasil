@@ -1,6 +1,6 @@
 ---
 created: 2026-09-28T13:33
-updated: 2026-09-28T13:38
+updated: 2026-10-31T21:31
 title: Overflow
 aliases:
 tags:
@@ -10,7 +10,6 @@ race: Automaton
 affiliation:
   - "[[Gorzod Montane|Gorzod]]"
   - "[[Gizmo]]"
-  - "[[The Order of the Crimson Rose]]"
 last-known-location: "[[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]"
 ---
 ## Background

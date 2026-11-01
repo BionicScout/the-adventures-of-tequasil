@@ -5,33 +5,156 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T19:23
+updated: 2026-10-31T21:48
 publish: true
-session-number:
+session-number: 12
 ---
 - During our sleep, we hear a voice tell people to rise
-- We all wake up at the same time in a  children's bedroom
-	- There is a fire
-	- The toys around are degraded
-	- Blue wall paper with clouds on it
-	- It is abnormally large
-	- There is a twin size bed
-- We wake up without our belongs
-- We are also made of plastic and realize we are action figures
-- One of us look like a human with a grizzly beard, looks like a divorce dad (who is [[John Cook]])
-- [[John Cook]] is starting to go to bed
-	- [[Bill Iron Clad Elliott|Iron Clad]] sees a cross and a figure pinned to the cross
-	- He walks over to it, and a dismembered grabs his leg
-	- [[Bill Iron Clad Elliott|Iron Clad]] kicks it free
-	- A space range tells him to leave
-	- [[Iron Clad]] sees a slinky that has been stretched across the bedroom, with dog head at the end of it. He pokes it
-- We all can't figure out what to do
-- [[Cortana Dragonfire Elliott|Cortana]] sees a green lizard 
-- [[John Cook]] heads straight to the toy chest and sees a cowboy attached to a cross
-	- THe cowboy tells him to go
-- [[Shane Three Sheets O Leary|Three Sheets]], [[Cortana Dragonfire Elliott|Cortana]], and [[Gorzod Montane|Gorzod]] attempt to move by walking around the edge of room
-- The door starts to open
-	- An 8ft shadowy figures is in the door way
-	- He smells and says "New Toys are Here"
-- [[John Cook]] plays dead and pulls his arm off
-- [[Bill Iron Clad Elliott|Bill]] finds some legos and tries to move them towards the door
+- Toy Story
+	- Waking Up
+		- We all wake up at the same time in a  children's bedroom
+			- There is a fire
+			- The toys around are degraded
+			- Blue wall paper with clouds on it
+			- It is abnormally large
+			- There is a twin size bed
+		- We wake up without our belongs
+		- We are also made of plastic and realize we are action figures
+		- One of us look like a human with a grizzly beard, looks like a divorce dad (who is [[John Cook]])
+		- [[John Cook]] is starting to go to bed
+			- [[Bill Iron Clad Elliott|Iron Clad]] sees a cross and a figure pinned to the cross
+			- He walks over to it, and a dismembered grabs his leg
+			- [[Bill Iron Clad Elliott|Iron Clad]] kicks it free
+			- A space range tells him to leave
+			- [[Iron Clad]] sees a slinky that has been stretched across the bedroom, with dog head at the end of it. He pokes it
+		- We all can't figure out what to do
+		- [[Cortana Dragonfire Elliott|Cortana]] sees a green lizard 
+		- [[John Cook]] heads straight to the toy chest and sees a cowboy attached to a cross
+			- The cowboy tells him to go
+		- [[Shane Three Sheets O Leary|Three Sheets]], [[Cortana Dragonfire Elliott|Cortana]], and [[Gorzod Montane|Gorzod]] attempt to move by walking around the edge of room
+	- The Escape
+		- The door starts to open
+			- An 8ft shadowy figures is in the door way
+			- He smells and says "New Toys are Here"
+		- [[John Cook]] plays dead and pulls his arm off
+		- [[Bill Iron Clad Elliott|Bill]] finds some legos and tries to move them towards the door
+		- The figure turns and sees him, and Iron Clad runs out the door
+		- [[John Bullet]] runs after him
+		- The figure picks up [[John Bullet]]
+		- The figure said that Bullet doesn't look fun to play with and throws him across the room into the hallway
+		- [[Fredrick J Fazbear|Fazbear]] stealthy runs into the doorway
+		- [[John Cook]] walks under the bed with self dismembered arm
+		- [[Cortana Dragonfire Elliott|Cortana]], [[Gorzod Montane|Gorzod]], [[John Cook]], and [[Lee Valentine]] make it out the door
+		- [[Grimshaw]] and [[Shane Three Sheets O Leary|Three Sheets]] end up sliding across the floor and the figure sees them
+		- The shadow attempts to reach for them and the split, avoiding his hand
+		- [[Shane Three Sheets O Leary|Shane]] makes it out the door
+		- [[Gorzod Montane|Gorzod]] throws a bouncy ball and it ends up knocking [[Grimshaw]] into the figures hand
+		- [[Grimshaw]] bites into the thumb of the shadow figure, and throws him out the door
+	- The Door slams shut behind us
+- Backrooms
+	- We no longer toys and we are back to are normal height
+	- In the hallway, the lights are buzzing
+	- The floor is ugly brown moist carpet
+	- Wall paper is a awful yellow
+	- [[Fredrick J Fazbear|Fazbear]] has been here once or twice
+	- We find tape and follow it
+- As we continue, the halls turn more normal 1800s manor style
+- There are 9 different doors
+	- [[Shane Three Sheets O Leary|Three Sheets]] stand behind a door that reminds him of his bed room door
+		- He walks in and sees his father
+		- His father ([[Thomas Three Sheets Father|Thomas]])) questions him about his life
+		- Three Sheets is "married to the sea"
+		- Three Sheets talks about [[Captain Morgan]] being like a father figure to him
+		- They talk about starting up [[Bags Inn]] with his family
+		- He asks him about what he thinks about [[Moon]]
+		- Three Sheets questions what he his ability to have a girl, calling her a "one in a blue moon"
+		- His dad tells her to not let her go
+		- Talks to his deceased older brother ([[Conner]])
+		- His father and brother's faces start to lose color and become pale
+		- Three Sheets hugs both of them
+		- Letting go, he sees there faces decay becoming bone and flesh
+		- His father, speaks to Three Sheets, telling him that he is the man of the house and how dare he leaves his family for months of at a time
+		- The figures attack Three Sheets and the scene Goes black
+	- [[Gorzod]] at a steel prison door
+		- He enters into the goblin prisons
+		- A figure sings holy music
+		- He sees [[Silas the Pilgrim]]
+		- They talk about how [[Gorzod Montane|Gorzod]] never found his home after escaping a goblin camp
+		- [[Silas the Pilgrim]] was stabbed to death
+		- Storm brews and lighting sticks, Silas's face turning to bone and flesh
+		- He condemns [[Gorzod Montane|Gorzod]]'s for not finding a home 
+		- Gorzod walks away and Silas stops him
+		- Gorzod starts to swing at Silas and stops
+		- Then he is called a coward, scene going to black
+	- [[Cortana Dragonfire Elliott|Cortana]] sees cellars from her past
+		- She see an elf with a whip in her hand
+		- It is [[Master Stone]]
+		- She ran away during a rebellion
+		- She tells [[Master Stone]] to basically screw off
+		- Thunder rolls in and [[Master Stone]] tells her that she destroyed the only home she ever had
+		- He cracks the whip and its her in the arm
+		- Fade to Black
+	- [[John Cook]]
+		- He opens the door to his back porch
+		- He hugs [[Caroline]] and starts crying
+		- [[Billy]] says he misses his dad, [[John Cook]]
+		- Cook cries
+		- He talks about the party a bit
+		- [[Caroline]] talks about him becoming a warforge
+		- [[John Cook]] is really confused
+		- [[John Cook]] refuses to believe he is a warforge
+		- The kids tell him to accept the fact that he is a warforge
+		- He asks them about school but they are dead
+		- They family becomes zombie like
+		- They tell him to reunite them with their real father
+		- Fade to black
+	- [[Fredrick J Fazbear|Fazbear]] he walks into his fathers workshop
+		- He sees a hydro electric car his father made
+		- His father walks in behind him
+		- His father didn't survive the blast
+		- His mom died in another accent 
+		- He found from his friend [[Gabe]]
+		- He said this can't be his father because he is being too vague
+		- A storm happens and his father decays 
+		- His dad calls him stupid
+		- [[Fredrick J Fazbear|Fazbear]] was sheltered as a kid and he blames his dad
+		- His dad blames his mom
+		- He lungs at [[Fredrick J Fazbear|Fazbear]] and he swipe back at his dad
+		- Fade to black
+	- [[Bill Iron Clad Elliott|Iron Clad]] door to the wizard's laboratory in the [[The Tattered Spire]]
+		- [[Azagorath]] is paced and talks to [[Bill Iron Clad Elliott|Iron Clad]]
+		- He was the last invention he made before the weave left
+		- The wizard calls him Leviathan
+		- All the memories flood back to him and he falls to his knees in agony
+		- [[Azagorath]] calls him ungrateful
+		- The Capital of magic in the past is now in ruined
+		- "They" decided that [[Bill Iron Clad Elliott|Iron Clad]] had to be here
+		- We only postponed the inevitable
+		- The party has been deemed worthy of a higher calling
+		- He feels another worldly presence might be watching 
+		- [[Bill Iron Clad Elliott|Iron Clad]] punches [[Azagorath]] 
+		- The scene fades to black
+	- [[Lee Valentine]] recognize the door as the [[Romeo Music Hall]]
+		- Lee goes up into the bell tower
+		- He sees [[Mike Romeo]] playing his music
+		- [[Lee Valentine]] plays music with him 
+		- Some kid that [[Mike Romeo]] saved became the head of [[The Celestial Order]]
+		- [[Lee Valentine]] invented a new form of martial arts called "Gun-Foo"
+		- Lee caught [[the man with the Ruby Chain]]
+		- Lighting flashes, the become more decayed
+		- "The ones that brought this reunion want you to lose hope"
+		- They continue to play music
+		- Fade to black
+	- [[John Bullet]]
+		- He recognizes the door of an old front door of a house
+		- He asks why he isolates himself from others
+		- He is told to work with the party more as he will need them
+		- The storm happens and the man decays
+		- He walks away
+		- his shoulder is grabbed
+		- Fade to black
+	- [[Grimshaw]] he sees his wife and son in [[Midway]]
+		- His son [[Brock]] is telling his mom about his day at school
+		- [[Brock]] tells him this is real and not fake
+		- This is a "test"
+		- 
