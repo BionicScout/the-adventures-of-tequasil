@@ -5,7 +5,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T22:39
+updated: 2026-10-31T22:43
 publish: true
 session-number: 12
 ---
@@ -172,4 +172,5 @@ session-number: 12
 	- [[Fredrick J Fazbear|Fazbear]] looks at the grave and sees his parents names
 	- Everyone starts to look at the graves and see familiar names 
 	- [[Gorzod Montane|Gorzod]] looks [[Theydra]]'s grave and sees that his 2nd cousin is [[Grimshaw]]'s wife
+	- [[Shane Three Sheets O Leary|Shane]] sees his own tomb stone
 	- 
