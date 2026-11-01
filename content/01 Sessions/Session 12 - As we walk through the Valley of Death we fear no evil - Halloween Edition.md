@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T23:49
+updated: 2026-10-31T23:51
 publish: true
 session-number: 12
 ---
@@ -205,3 +205,5 @@ session-number: 12
 	- There are red eyes in the sky
 	- "It appears your efforts will be futile"
 - We wake up
+- We all of a letter beside us
+	- Signed by [[Phi]]
