@@ -9,9 +9,9 @@ tags:
   - dnd/garrett
   - draft
 collections:
-  - "[[PCs]]"
+  - "[[Draft/PCs]]"
 created: 2026-08-08T22:23
-updated: 2026-08-14T23:02
+updated: 2026-10-31T23:20
 ---
 ## Key Information
 - Can't Speak common sometimes
