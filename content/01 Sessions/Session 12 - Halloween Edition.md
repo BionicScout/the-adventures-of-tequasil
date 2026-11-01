@@ -5,7 +5,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T21:48
+updated: 2026-10-31T22:39
 publish: true
 session-number: 12
 ---
@@ -157,4 +157,19 @@ session-number: 12
 		- His son [[Brock]] is telling his mom about his day at school
 		- [[Brock]] tells him this is real and not fake
 		- This is a "test"
-		- 
+		- His orc wife, [[Theydra]], hugs him from behind 
+		- His wife is cousin of Gorzod (2nd or 3rd Cousin)
+		- He forgot them because of his head injury 
+- Cemetery 
+	- We are in a big foyer full 
+	- It is haunted
+	- And we walk out the front door
+	- It is the middle of the night
+	- There is a path into a cemetery 
+	- We go back inside to find weapons
+	- A non-ominous fog sets in
+	- [[John Bullet]] tries to pull a head stone out but it doesn't budge
+	- [[Fredrick J Fazbear|Fazbear]] looks at the grave and sees his parents names
+	- Everyone starts to look at the graves and see familiar names 
+	- [[Gorzod Montane|Gorzod]] looks [[Theydra]]'s grave and sees that his 2nd cousin is [[Grimshaw]]'s wife
+	- 
