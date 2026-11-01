@@ -1,7 +1,7 @@
 ---
 title: Welcome Adventurers!
 created: 2026-08-08T22:28
-updated: 2026-08-14T22:58
+updated: 2026-10-31T23:02
 ---
-[[Sessions List]]
+[[content/01 Sessions/index]]
 

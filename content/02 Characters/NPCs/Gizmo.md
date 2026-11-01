@@ -4,7 +4,7 @@ aliases:
 tags:
   - character/npc
 created: 2026-09-28T14:30
-updated: 2026-10-31T21:37
+updated: 2026-10-31T23:14
 publish: true
 race: Kobald
 affiliation:

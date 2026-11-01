@@ -1,11 +1,12 @@
 ---
-title:
+title: As we walk through the Valley of Death, we fear no evil
 aliases:
   - Session 12
+  - As we walk through the Valley of Death, we fear no evil
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T22:43
+updated: 2026-10-31T23:14
 publish: true
 session-number: 12
 ---
@@ -173,4 +174,22 @@ session-number: 12
 	- Everyone starts to look at the graves and see familiar names 
 	- [[Gorzod Montane|Gorzod]] looks [[Theydra]]'s grave and sees that his 2nd cousin is [[Grimshaw]]'s wife
 	- [[Shane Three Sheets O Leary|Shane]] sees his own tomb stone
-	- 
+	- We all see our own tomb stones and they are open
+	- We all get in the grave
+	- Then we are standing back on solid ground and fog disappears
+	- Hand start sticking out of the dirt
+	- There are thousands of zombies around us
+	- On the opposite side of the graveyard is a 13ft tall figure with a skeleton face and a sickle
+	- [[Gorzod Montane|Gorzod]] does a prayer to God
+	- [[John Bullet]] moves up to his dead father
+	- [[Shane Three Sheets O Leary|Shane]] starts to walk straight to death ignoring everyone else
+	- We all walk up to death and he shrink to 6ft
+	- We congratulates us
+	- "As we walk through the Valley of Death, we fear no evil" - [[Shane Three Sheets O Leary|Three Sheets]]
+- We pick a direction to walk through the canopy of the trees
+- We see dancing lights in the distance
+- We hear children laughing from a small cabin in the woods
+- [[John Bullet]] is the only one to walk to the cabin
+- He walks in an old lady ask where is friends are
+- [[Bill Iron Clad Elliott|Iron Clad]] yells there is cat over here but [[John Bullet]] ignores him
+- [[Cortana Dragonfire Elliott|Cortana]] asks the old lady for answer of why we are there and she got none

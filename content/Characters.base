@@ -1,0 +1,64 @@
+filters:
+  and:
+    - '!file.inFolder("Templates")'
+    - file.hasTag("character")
+formulas:
+  Title: if(title, file.asLink(title), file.asLink(file.name))
+  Session Number: note["session-number"]
+  Session Date: created.format("MM-DD-YYYY").toString()
+properties:
+  formula.Session Number:
+    displayName: Session
+views:
+  - type: table
+    name: Characters
+    order:
+      - formula.Title
+      - race
+      - last-known-location
+      - affiliation
+    sort:
+      - property: formula.Title
+        direction: ASC
+    columnSize:
+      formula.Title: 134
+      note.race: 94
+      note.last-known-location: 189
+    rowHeight: medium
+  - type: table
+    name: PCs
+    filters:
+      and:
+        - file.hasTag("character/pc")
+    order:
+      - player
+      - formula.Title
+      - race
+      - last-known-location
+      - affiliation
+    sort:
+      - property: formula.Title
+        direction: ASC
+    columnSize:
+      formula.Title: 134
+      note.race: 94
+      note.last-known-location: 189
+    rowHeight: medium
+  - type: table
+    name: NPCs
+    filters:
+      and:
+        - file.hasTag("character/npc")
+    order:
+      - formula.Title
+      - race
+      - last-known-location
+      - affiliation
+    sort:
+      - property: formula.Title
+        direction: ASC
+    columnSize:
+      formula.Title: 134
+      note.race: 94
+      note.last-known-location: 189
+    rowHeight: medium

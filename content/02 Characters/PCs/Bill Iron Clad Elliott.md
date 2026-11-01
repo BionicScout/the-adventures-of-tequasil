@@ -8,9 +8,9 @@ aliases:
 tags:
   - character/pc
 created: 2026-06-13
-updated: 2026-08-22T19:34
+updated: 2026-10-31T23:12
 publish: true
-player:
+player: Bill
 race: Warforge
 affiliation:
 last-known-location: "[[Knoxopolis]]"
