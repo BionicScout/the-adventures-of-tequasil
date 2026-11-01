@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T23:14
+updated: 2026-10-31T23:17
 publish: true
 session-number: 12
 ---
@@ -193,3 +193,4 @@ session-number: 12
 - He walks in an old lady ask where is friends are
 - [[Bill Iron Clad Elliott|Iron Clad]] yells there is cat over here but [[John Bullet]] ignores him
 - [[Cortana Dragonfire Elliott|Cortana]] asks the old lady for answer of why we are there and she got none
+- 
