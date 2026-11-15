@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-11-14T18:36
-updated: 2026-11-14T21:16
+updated: 2026-11-14T23:18
 publish: true
 session-number: 13
 ---
@@ -112,6 +112,73 @@ session-number: 13
 		- Is the Shark King really dead?
 		- What was the dream with the a voice saying rise and black ring about?
 		- What is special about the sickle and dagger?
+			- Maybe sickle comes from meteorite?
 		- [[Clarissa ]] and [[Daveed]] were the cult leaders. 
-		- 
+		- What is the history of the symbol of tree-insignia? (was on cultist uniforms)
 	- [[Lee Valentine]] opens the door and it creeks
+	- We talk and ask questions
+- [[Gorzod Montane|Gorzod]]
+	- Sees [[Captain Morgan]] and give him key to headquarters
+	- Sends a message to [[Bill Iron Clad Elliott|Iron Clad]] and [[Cortana Dragonfire Elliott|Cortana]]
+		- New headquarters location
+		- Send Dagger to IKEA
+		- Research Tree Insignia 
+	- [[International Konclave of Enlightened Artificers|IKEA]]
+		- I go into a private office to talk about sickle
+		- Information
+			- Special materials from [[Moria]] called the metal pheronic 
+			- It is meteorite metal
+			- Metal has two properties
+				- Red form - take life, dealing nercrotic
+				- Black form - deals radiant damage
+			- Transformation
+				- Can transform to black one time
+				- Done at extreme heat (only know location to do so is at [[Moria]])
+				- If you soul bond and then it get purified, it would probally kill you
+- The morgue
+	- [[Shane Three Sheets O Leary|Three Sheets]] and [[Grimshaw]] go
+	- [[Judy]] is not there
+	- There is no bodies in the morgue and all the coolers are open
+	- [[Judy]] disappeared last night and can't be found
+	- None of the officers came back from the sewers
+	- [[Grimshaw]] calls city to lock down
+- [[Shane Three Sheets O Leary|Three Sheets]]
+	- [[Shane Three Sheets O Leary|Shane]] runs to [[Bags Inn]] after thinking that he is connected to Royalty
+	- Three Sheets' mom is crying
+	- [[Gwen]] and [[Jack]] have gone missing
+	- He runs to [[Captain Morgan]]
+	- They talk
+	- [[Captain Morgan]] sends a special raven to look for the [[Shark King]]
+- Police Station
+	- The other captains meet with Grimshaw
+	- He wants to investigate people with royal blood
+	- [[Grimshaw]] heads to the [[Keel Haller]]
+- [[Keel Haller]]
+	- [[Shane Three Sheets O Leary|Shane]] walks in and asks for the strongest drink
+	- He talks to [[Thomas the Bartender]] about all of this
+	- [[Grimshaw]] walks in
+	- [[Lee Valentine]] who has been in the bar, does not like the lock down keeping people in
+	- Plan
+		- Temporary lock down (claim it was a test)
+		- Then do a regulated locked down checking more people in and out but not publicly announced \
+		- Checkpoints are set up
+- [[John Cook]]
+	- Cook wakes up to hear the city is lock down
+	- He goes "What did I do"
+	- [[Captain Morgan]] sends a message about the dead have left the morgue and new base at the [[Keel Haller]]
+	- He misses most of the message to head to the [[Keel Haller]] 
+	- He sees [[Gorzod Montane|Gorzod]]
+	- They talk and he continues on
+- [[Gorzods Smoke and Steel|Gorzod's Smoke & Steel]]
+	- [[Gorzod Montane|Gorzod]] hears [[Fredrick J Fazbear|Fazbear]] moving stuff
+	- [[Overflow]] is crying in the corner because [[Fredrick J Fazbear|Fazbear]] was mean to him
+	- [[Gorzod Montane|Gorzod]] tells [[Overflow]] he can rearrange the store for the rest of the day how he wants
+	- [[Gorzod Montane|Gorzod]] goes up to see [[Fredrick J Fazbear|Fazbear]]
+	- 
+- [[Keel Haller]]
+	- [[Grimshaw]] and [[Shane Three Sheets O Leary|Shane]] are at the bar
+	- [[John Cook]] walks in
+	- He goes and talks to [[Grimshaw]]
+	- Drinks are [[Captain Morgan]]'s tab
+	- [[John Cook]] catches up with [[Grimshaw]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] calls [[John Cook]] over and tells him about his taken family
