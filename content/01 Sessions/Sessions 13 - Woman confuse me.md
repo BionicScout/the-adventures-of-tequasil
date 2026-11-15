@@ -1,12 +1,12 @@
 ---
-title: Woman Confuse Me
+title: Sessions 13 - Woman Confuse Me
 aliases:
   - Session 13
   - Woman Confuse Me
 tags:
   - session-notes
 created: 2026-11-14T18:36
-updated: 2026-11-14T23:37
+updated: 2026-11-15T15:00
 publish: true
 session-number: 13
 ---

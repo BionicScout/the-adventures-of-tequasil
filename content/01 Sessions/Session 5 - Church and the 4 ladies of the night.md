@@ -1,12 +1,12 @@
 ---
-title: Church and the 4 ladies of the night
+title: Session 5 - Church and the 4 ladies of the night
 aliases:
   - Session 5
   - Church and the 4 ladies of the night
 tags:
   - session-notes
 created: 2026-07-25T18:12
-updated: 2026-08-14T22:40
+updated: 2026-11-15T15:01
 publish: true
 session-number: 5
 ---

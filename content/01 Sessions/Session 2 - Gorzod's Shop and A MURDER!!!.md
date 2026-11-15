@@ -1,12 +1,12 @@
 ---
-title: Gorzod's Shop and A MURDER!!!
+title: Session 2 - Gorzod's Shop and A MURDER!!!
 aliases:
   - Session 2
   - Gorzod's Shop and A MURDER!!!
 tags:
   - session-notes
 created: 2026-06-13T18:25
-updated: 2026-08-14T22:40
+updated: 2026-11-15T15:02
 publish: true
 session-number: 2
 ---

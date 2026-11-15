@@ -4,7 +4,7 @@ aliases:
 tags:
   - location
 created: 2026-06-13T18:24
-updated: 2026-10-31T18:34
+updated: 2026-11-15T14:59
 marker:
   - mapName: Tequasil Republic
     coordinates: 264, 732
@@ -20,11 +20,15 @@ factions:
   - "[[DRWHO]]"
   - "[[PETA]]"
   - "[[FETT]]"
+  - "[[FIST]]"
 ---
-![[Leaflets Base.base#Knoxopolis]]
 - Filled with Automatons
 - Has Tesla Coils
 
+---
+## Map
+![[Leaflets Base.base#Knoxopolis]]
 
+---
 ## Related
 ![[Related Base.base]]

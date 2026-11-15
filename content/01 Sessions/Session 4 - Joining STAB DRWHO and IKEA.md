@@ -1,12 +1,12 @@
 ---
-title: Joining STAB, DRWHO, and IKEA
+title: Session 4 - Joining STAB, DRWHO, and IKEA
 aliases:
   - Session 4
   - Joining STAB, DRWHO, and IKEA
 tags:
   - session-notes
 created: 2026-07-11T18:02
-updated: 2026-08-14T22:40
+updated: 2026-11-15T15:01
 publish: true
 session-number: 4
 ---

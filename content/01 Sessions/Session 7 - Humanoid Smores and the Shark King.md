@@ -1,12 +1,12 @@
 ---
-title: Humanoid Smores and the Shark King
+title: Session 7 - Humanoid Smores and the Shark King
 aliases:
   - Session 7
   - Humanoid Smores and the Shark King
 tags:
   - session-notes
 created: 2026-08-22T18:30
-updated: 2026-09-28T13:24
+updated: 2026-11-15T15:01
 publish: true
 session-number: 7
 ---

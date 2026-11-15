@@ -1,12 +1,12 @@
 ---
-title: Into the Sewers and Ogre fight
+title: Session 6 - Into the Sewers and Ogre fight
 aliases:
   - Session 6
   - Into the Sewers and Ogre fight
 tags:
   - session-notes
 created: 2026-08-08T17:51
-updated: 2026-08-22T18:32
+updated: 2026-11-15T15:01
 publish: true
 session-number: 6
 ---

@@ -1,12 +1,12 @@
 ---
-title: The Ritual
+title: Session 11 - The Ritual
 aliases:
   - Session 11
   - The Ritual
 tags:
   - session-notes
 created: 2026-10-17T18:19
-updated: 2026-10-31T18:38
+updated: 2026-11-15T15:01
 publish: false
 session-number: 11
 ---

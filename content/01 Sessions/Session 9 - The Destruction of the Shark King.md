@@ -1,12 +1,12 @@
 ---
-title: The Destruction of the Shark King
+title: Session 9 - The Destruction of the Shark King
 aliases:
   - Session 9
   - The Destruction of the Shark King
 tags:
   - session-notes
 created: 2026-09-19T18:31
-updated: 2026-09-19T22:09
+updated: 2026-11-15T15:01
 publish: true
 session-number: 9
 ---

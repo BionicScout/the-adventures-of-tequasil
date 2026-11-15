@@ -1,12 +1,12 @@
 ---
-title: The Tequasil Drift
+title: Session 8 - The Tequasil Drift
 aliases:
   - Session 8
   - The Tequasil Drift
 tags:
   - session-notes
 created: 2026-09-05T18:22
-updated: 2026-09-19T22:04
+updated: 2026-11-15T15:01
 publish: true
 session-number: 8
 ---

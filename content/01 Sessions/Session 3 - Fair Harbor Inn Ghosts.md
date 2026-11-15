@@ -1,12 +1,12 @@
 ---
-title: Fair Harbor Inn Ghosts
+title: Session 3 - Fair Harbor Inn Ghosts
 aliases:
   - Session 3
   - Fair Harbor Inn Ghosts
 tags:
   - session-notes
 created: 2026-07-11T18:10
-updated: 2026-08-14T22:40
+updated: 2026-11-15T15:02
 publish: true
 session-number: 3
 ---

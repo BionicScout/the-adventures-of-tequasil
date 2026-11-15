@@ -1,12 +1,12 @@
 ---
-title: Arriving in Knoxopolis
+title: Session 1 - Arriving in Knoxopolis
 aliases:
   - Session 1
   - Arriving in Knoxopolis
 tags:
   - session-notes
 created: 2026-05-30T18:32
-updated: 2026-08-22T19:30
+updated: 2026-11-15T15:02
 publish: true
 session-number: 1
 ---

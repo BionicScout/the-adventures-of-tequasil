@@ -1,10 +1,10 @@
 ---
-title:
+title: Session 10 -
 aliases:
 tags:
   - session-notes
 created: 2026-10-17T18:19
-updated: 2026-10-31T18:26
+updated: 2026-11-15T15:01
 publish: false
 session-number: 10
 ---

@@ -1,12 +1,12 @@
 ---
-title: As we walk through the Valley of Death, we fear no evil
+title: Session 12 - As we walk through the Valley of Death, we fear no evil
 aliases:
   - Session 12
   - As we walk through the Valley of Death, we fear no evil
 tags:
   - session-notes
 created: 2026-10-31T18:22
-updated: 2026-10-31T23:51
+updated: 2026-11-15T15:00
 publish: true
 session-number: 12
 ---
