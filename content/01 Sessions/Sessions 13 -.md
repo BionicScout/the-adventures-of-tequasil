@@ -1,0 +1,85 @@
+---
+title:
+aliases:
+  - Session 13
+tags:
+  - session-notes
+created: 2026-11-14T18:36
+updated: 2026-11-14T20:26
+publish: true
+session-number: 13
+---
+-  [[Shane Three Sheets O Leary|Three Sheets]]
+	- Wakes ups and rolls over
+	- He gets ups and sees [[Three Sheets Mom]] 
+	- He tells here about the letter
+	- She says like the symbol is missing something
+	- He tells her about him investigating the murders
+	- He tells her about the dream
+	- [[Shane Three Sheets O Leary|Three Sheets]] tells her she is afraid of not giving all he can
+	- [[Shane Three Sheets O Leary|Three Sheets]] tells his mom he want to talk to [[Jack]] if he sees him
+- [[John Cook]]
+	- John wakes up from his sleeping chair from his drunken state
+	- He repeats "My name is John Cook" repletely and then slams his head over and over again until he passes out
+- [[Gorzod Montane|Gorzod]]
+	- Gorzod wakes up sees the letter
+	- He questions [[Gizmo]] about it
+	- Gizmo didn't see anyone come in last night to leave it
+	- However, he said that [[Gorzod Montane|Gorzod]] came
+	- Like I wan in a trance
+	- I don't remember leaving the sewers and walking home
+	- Write to Fazbear
+	- Gorzod heads to [[International Konclave of Enlightened Artificers|IKEA]]
+- [[Fredrick J Fazbear|Fazbear]]
+	- Wakes up to a knock
+	- He opens the door to see [[Gizmo]] with Gorzod's letter
+	- He can read common now forever
+	- He leaves to head to [[International Konclave of Enlightened Artificers|IKEA]]
+- [[International Konclave of Enlightened Artificers|IKEA]]
+	- [[Fredrick J Fazbear|Fazbear]] arrives and ask about the invention he turned in
+	- He passed and receives his gauntlets back
+	- He got a probationary membership card allowing him to access any IKEA facility through out
+	- Then he talks to [[Gorzod Montane|Gorzod]]
+	- They talk about [[Fredrick J Fazbear|Fazbear]] gauntlets
+	- [[Gorzod Montane|Gorzod]] invites him to live with him
+	- [[Fredrick J Fazbear|Fazbear]] agrees
+	- An automaton Raven swoops and spits a note my work bench
+	- It is from [[Captain Morgan]] to bring to meet him at the ship with the speakers
+	- dd
+	- [[Gorzod Montane|Gorzod]] shows the front the speakers
+	- Gorzod gets his membership
+	- Task to do in [[International Konclave of Enlightened Artificers|IKEA]]
+		- Automaton keeps catching fire when exposed to air
+		- Shipment coming from a material compartment from [[Moria]] that needs looked at
+	- [[Gorzod Montane|Gorzod]] limp heals
+- [[Fredrick J Fazbear|Fazbear]]
+	- Grabs his stuff from [[Far Harbor Inn]]
+	- [[Gizmo]] comes to greet him and notices [[Fredrick J Fazbear|Fazbear]]'s hair gets grown back
+	- He hands him the letter
+	- Then [[Gizmo]] shows [[Fredrick J Fazbear|Fazbear]] to his room
+	- Then he shown around the rest of the shop
+	- [[Fredrick J Fazbear|Fazbear]] goes to clean his new room for the next 8 hours
+- [[Gorzod Montane|Gorzod]]
+	- [[Captain Morgan]] is waiting on the deck for him
+	- [[Gorzod Montane|Gorzod]] installs the speaker in the raven
+	- [[Gorzod Montane|Gorzod]] ask the raven to send a message to [[Shane Three Sheets O Leary|Three Sheets]] to ask about the letter
+	- The raven lands in front of [[Shane Three Sheets O Leary|Three Sheets]] and delivers the message 
+	- [[Shane Three Sheets O Leary|Shane]] outs to the ship and sends a return message
+	- [[Gorzod Montane|Gorzod]] asks [[Captain Morgan]] about the symbol
+	- It reminds him of an incomplete symbol from a history book with horizontal bars
+	- [[Captain Morgan]] and [[Gorzod Montane|Gorzod]] talk about the strange events of the last week
+- The Streets
+	- [[Shane Three Sheets O Leary|Three Sheets]] and [[Grimshaw]] run into each other on the street
+	- They go to the ship
+-[[Evan Hawk]]
+	- [[Shane Three Sheets O Leary|Three Sheets]] and [[Grimshaw]] walk in
+	- [[Shane Three Sheets O Leary|Three Sheets]] is related to gwendolyn Royalty 
+	- It is possible it could be from a sea elf
+	- [[Shane Three Sheets O Leary|Three Sheets]] wonders if who the card from descendants of the [[Emerald Knights]]
+	- We discuss about setting up a base of operation and decide to go over to the [[Keel Haller]]
+	- [[Captain Morgan]] continues to install speakers in th birds 
+- [[Sai Kata]]
+	- He is getting intel on the note he received 
+	- He is on his ship going over things with his crew
+	- He is looking into more information on the [[Shark King]]
+	- 
