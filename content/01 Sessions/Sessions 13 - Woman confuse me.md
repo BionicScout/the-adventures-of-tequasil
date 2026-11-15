@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-11-14T18:36
-updated: 2026-11-14T23:18
+updated: 2026-11-14T23:35
 publish: true
 session-number: 13
 ---
@@ -174,7 +174,8 @@ session-number: 13
 	- [[Overflow]] is crying in the corner because [[Fredrick J Fazbear|Fazbear]] was mean to him
 	- [[Gorzod Montane|Gorzod]] tells [[Overflow]] he can rearrange the store for the rest of the day how he wants
 	- [[Gorzod Montane|Gorzod]] goes up to see [[Fredrick J Fazbear|Fazbear]]
-	- 
+	- [[Fredrick J Fazbear|Fazbear]] passes put exhaustion 
+	- [[Gorzod Montane|Gorzod]] let's [[Fredrick J Fazbear|Fazbear]] sleep for a bit
 - [[Keel Haller]]
 	- [[Grimshaw]] and [[Shane Three Sheets O Leary|Shane]] are at the bar
 	- [[John Cook]] walks in
@@ -182,3 +183,10 @@ session-number: 13
 	- Drinks are [[Captain Morgan]]'s tab
 	- [[John Cook]] catches up with [[Grimshaw]]
 	- [[Shane Three Sheets O Leary|Three Sheets]] calls [[John Cook]] over and tells him about his taken family
+	- [[John Cook]] relates with him
+	- [[Grimshaw]] goes unconscious after failing to flirt with [[Jade]]
+- [[Lee Valentine]]
+	- Heads to his ship
+
+
+[[Cork Board.canvas]]
