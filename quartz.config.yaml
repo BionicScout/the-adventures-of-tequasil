@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/BionicScout/the-adventures-of-tequasil
+  baseUrl: github.com/the-adventures-of-tequasil
   ignorePatterns:
     - private
     - templates

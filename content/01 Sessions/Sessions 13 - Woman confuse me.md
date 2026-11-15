@@ -1,11 +1,12 @@
 ---
-title:
+title: Woman Confuse Me
 aliases:
   - Session 13
+  - Woman Confuse Me
 tags:
   - session-notes
 created: 2026-11-14T18:36
-updated: 2026-11-14T20:26
+updated: 2026-11-14T21:16
 publish: true
 session-number: 13
 ---
@@ -82,4 +83,35 @@ session-number: 13
 	- He is getting intel on the note he received 
 	- He is on his ship going over things with his crew
 	- He is looking into more information on the [[Shark King]]
-	- 
+- [[Keel Haller]]
+	- We get drinks with [[Thomas the Bartender]]
+	- We tell him about needing a meeting room and he gives one
+	- It was a meeting room for the mob about a 100 years ago
+	- We talk about the dream
+	- [[Gorzod Montane|Gorzod]] remembers he is related to [[Captain Fabius Grimshaw]]
+	- We talk about [[Guy]] and the interaction. [[Gorzod Montane|Gorzod]] doesn't remember
+	- Two sisters walk into the bar, the Tsunami Twins [[Moon]] and [[Jade]]
+	- [[Moon]] and [[Shane Three Sheets O Leary|Three Sheets]] talk
+	- [[Jade]] and [[Grimshaw]] speak
+	- "Woman confuse me" - [[Grimshaw]]
+	- An orc woman claimed [[Grimshaw]] as his wife 
+	- "Orcs women are just Yanderes with the strength to actually do things" - [[Shane Three Sheets O Leary|Three Sheets]]
+- Meeting room
+	- The board
+		- Who is [[Guy]]?
+		- Why is [[Shark King]] involved?
+		- Is the [[The Order of the Scarlet Thread]] connected to other things?
+		- How does the ritual work and what was the purpose?
+		- How is the party connected to each other
+			- Are we royalty at all?
+		- Who or what is [[Phi]]?
+		- Is [[Guy]] related to [[Phi]]?
+		- Is the [[The Tattered Spire]] involved in this?
+		- Are the sea elves involved? 
+			- Primordial 
+		- Is the Shark King really dead?
+		- What was the dream with the a voice saying rise and black ring about?
+		- What is special about the sickle and dagger?
+		- [[Clarissa ]] and [[Daveed]] were the cult leaders. 
+		- 
+	- [[Lee Valentine]] opens the door and it creeks
