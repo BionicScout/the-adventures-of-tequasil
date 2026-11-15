@@ -62,3 +62,19 @@ views:
       note.race: 94
       note.last-known-location: 189
     rowHeight: medium
+  - type: cards
+    name: Characters w/Images
+    order:
+      - formula.Title
+      - race
+      - last-known-location
+      - affiliation
+    sort:
+      - property: formula.Title
+        direction: ASC
+    columnSize:
+      formula.Title: 134
+      note.race: 94
+      note.last-known-location: 189
+    rowHeight: medium
+    image: note.image

@@ -5,7 +5,7 @@ aliases:
 tags:
   - character/pc
 created: 2026-05-13
-updated: 2026-11-15T14:58
+updated: 2026-11-15T15:40
 publish: true
 player: Roman
 race: Orc
@@ -17,8 +17,9 @@ affiliation:
   - "[[International Konclave of Enlightened Artificers|IKEA]]"
 last-known-location:
 personal-details: "[[Gorzod Personal Details]]"
+image: "[[Headshot-Gorzod.png]]"
 ---
-![[Gorzok.png|400]]
+![[Gorzod.png|400]]
 
 ## Character Info
 ### Description
