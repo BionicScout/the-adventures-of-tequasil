@@ -5,7 +5,7 @@ aliases:
 tags:
   - character/pc
 created: 2026-05-13
-updated: 2026-10-31T21:56
+updated: 2026-11-15T14:27
 publish: true
 player: Roman
 race: Orc
@@ -13,6 +13,7 @@ affiliation:
   - "[[The Order of the Crimson Rose]]"
   - "[[Reverend Joel Osterson]]"
   - "[[Goblin Chieftain Havre]]"
+  - "[[Mount of Olives Church]]"
 last-known-location:
 personal-details: "[[Gorzod Personal Details]]"
 ---
