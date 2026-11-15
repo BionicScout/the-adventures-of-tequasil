@@ -6,7 +6,7 @@ aliases:
 tags:
   - session-notes
 created: 2026-11-14T18:36
-updated: 2026-11-14T23:35
+updated: 2026-11-14T23:37
 publish: true
 session-number: 13
 ---
@@ -185,6 +185,7 @@ session-number: 13
 	- [[Shane Three Sheets O Leary|Three Sheets]] calls [[John Cook]] over and tells him about his taken family
 	- [[John Cook]] relates with him
 	- [[Grimshaw]] goes unconscious after failing to flirt with [[Jade]]
+	- [[Shane Three Sheets O Leary|Shane]] shows [[John Cook]] to the [[Evan Hawk]] hammocks and [[John Cook]] procedes to fall down the steps and become unconscious 
 - [[Lee Valentine]]
 	- Heads to his ship
 
